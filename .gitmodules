@@ -349,3 +349,6 @@
 [submodule "php/php-Metadata"]
 	path = php/php-Metadata
 	url = ssh://pkgs.fedoraproject.org/php-Metadata.git
+[submodule "php/php-Monolog"]
+	path = php/php-Monolog
+	url = ssh://pkgs.fedoraproject.org/php-Monolog.git
