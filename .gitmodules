@@ -1120,3 +1120,6 @@
 [submodule "php/pear/php-pear-PHP-CompatInfo"]
 	path = php/pear/php-pear-PHP-CompatInfo
 	url = ssh://pkgs.fedoraproject.org/php-pear-PHP-CompatInfo.git
+[submodule "php/pear/php-pear-PHPUnit"]
+	path = php/pear/php-pear-PHPUnit
+	url = ssh://pkgs.fedoraproject.org/php-pear-PHPUnit.git
