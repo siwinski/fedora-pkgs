@@ -868,3 +868,6 @@
 [submodule "php/pear/php-pear-Auth-Yubico"]
 	path = php/pear/php-pear-Auth-Yubico
 	url = ssh://pkgs.fedoraproject.org/php-pear-Auth-Yubico.git
+[submodule "php/pear/php-pear-Auth_HTTP"]
+	path = php/pear/php-pear-Auth_HTTP
+	url = ssh://pkgs.fedoraproject.org/php-pear-Auth_HTTP.git
