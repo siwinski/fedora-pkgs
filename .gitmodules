@@ -487,3 +487,6 @@
 [submodule "php/digitalsandwich/php-digitalsandwich-Phake"]
 	path = php/digitalsandwich/php-digitalsandwich-Phake
 	url = ssh://pkgs.fedoraproject.org/php-digitalsandwich-Phake.git
+[submodule "php/doctrine/php-doctrine-Doctrine"]
+	path = php/doctrine/php-doctrine-Doctrine
+	url = ssh://pkgs.fedoraproject.org/php-doctrine-Doctrine.git
