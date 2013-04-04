@@ -25,3 +25,6 @@
 [submodule "drupal6/drupal6-block_class"]
 	path = drupal6/drupal6-block_class
 	url = ssh://pkgs.fedoraproject.org/drupal6-block_class.git
+[submodule "drupal6/drupal6-calendar"]
+	path = drupal6/drupal6-calendar
+	url = ssh://pkgs.fedoraproject.org/drupal6-calendar.git
