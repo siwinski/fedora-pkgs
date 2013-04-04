@@ -436,3 +436,6 @@
 [submodule "php/channel/php-channel-pdepend"]
 	path = php/channel/php-channel-pdepend
 	url = ssh://pkgs.fedoraproject.org/php-channel-pdepend.git
+[submodule "php/channel/php-channel-pearplex"]
+	path = php/channel/php-channel-pearplex
+	url = ssh://pkgs.fedoraproject.org/php-channel-pearplex.git
