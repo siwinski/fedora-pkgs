@@ -1138,3 +1138,6 @@
 [submodule "php/pear/php-pear-PhpDocumentor"]
 	path = php/pear/php-pear-PhpDocumentor
 	url = ssh://pkgs.fedoraproject.org/php-pear-PhpDocumentor.git
+[submodule "php/pear/php-pear-SOAP"]
+	path = php/pear/php-pear-SOAP
+	url = ssh://pkgs.fedoraproject.org/php-pear-SOAP.git
