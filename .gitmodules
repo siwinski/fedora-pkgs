@@ -1477,3 +1477,6 @@
 [submodule "php/symfony2/php-symfony2-Console"]
 	path = php/symfony2/php-symfony2-Console
 	url = ssh://pkgs.fedoraproject.org/php-symfony2-Console.git
+[submodule "php/symfony2/php-symfony2-CssSelector"]
+	path = php/symfony2/php-symfony2-CssSelector
+	url = ssh://pkgs.fedoraproject.org/php-symfony2-CssSelector.git
