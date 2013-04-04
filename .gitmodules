@@ -235,3 +235,6 @@
 [submodule "drupal7/drupal7-features_plumber"]
 	path = drupal7/drupal7-features_plumber
 	url = ssh://pkgs.fedoraproject.org/drupal7-features_plumber.git
+[submodule "drupal7/drupal7-feeds"]
+	path = drupal7/drupal7-feeds
+	url = ssh://pkgs.fedoraproject.org/drupal7-feeds.git
