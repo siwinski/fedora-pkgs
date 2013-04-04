@@ -91,3 +91,6 @@
 [submodule "drupal6/drupal6-freelinking"]
 	path = drupal6/drupal6-freelinking
 	url = ssh://pkgs.fedoraproject.org/drupal6-freelinking.git
+[submodule "drupal6/drupal6-geshifilter"]
+	path = drupal6/drupal6-geshifilter
+	url = ssh://pkgs.fedoraproject.org/drupal6-geshifilter.git
