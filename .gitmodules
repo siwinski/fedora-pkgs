@@ -214,3 +214,6 @@
 [submodule "drupal7/drupal7-ctools"]
 	path = drupal7/drupal7-ctools
 	url = ssh://pkgs.fedoraproject.org/drupal7-ctools.git
+[submodule "drupal7/drupal7-date"]
+	path = drupal7/drupal7-date
+	url = ssh://pkgs.fedoraproject.org/drupal7-date.git
