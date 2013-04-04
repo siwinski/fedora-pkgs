@@ -388,3 +388,6 @@
 [submodule "php/php-ZendFramework"]
 	path = php/php-ZendFramework
 	url = ssh://pkgs.fedoraproject.org/php-ZendFramework.git
+[submodule "php/php-adodb"]
+	path = php/php-adodb
+	url = ssh://pkgs.fedoraproject.org/php-adodb.git
