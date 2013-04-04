@@ -691,3 +691,6 @@
 [submodule "php/horde/php-horde-Horde-Log"]
 	path = php/horde/php-horde-Horde-Log
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Log.git
+[submodule "php/horde/php-horde-Horde-LoginTasks"]
+	path = php/horde/php-horde-Horde-LoginTasks
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-LoginTasks.git
