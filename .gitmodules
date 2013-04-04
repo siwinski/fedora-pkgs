@@ -178,3 +178,6 @@
 [submodule "drupal6/drupal6-workspace"]
 	path = drupal6/drupal6-workspace
 	url = ssh://pkgs.fedoraproject.org/drupal6-workspace.git
+[submodule "drupal6/drupal6-yubikey"]
+	path = drupal6/drupal6-yubikey
+	url = ssh://pkgs.fedoraproject.org/drupal6-yubikey.git
