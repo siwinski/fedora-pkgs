@@ -1231,3 +1231,6 @@
 [submodule "php/pear/php-pear-propel_runtime"]
 	path = php/pear/php-pear-propel_runtime
 	url = ssh://pkgs.fedoraproject.org/php-pear-propel_runtime.git
+[submodule "php/pecl/php-pecl-Fileinfo"]
+	path = php/pecl/php-pecl-Fileinfo
+	url = ssh://pkgs.fedoraproject.org/php-pecl-Fileinfo.git
