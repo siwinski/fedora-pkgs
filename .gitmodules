@@ -1570,3 +1570,6 @@
 [submodule "php53/php/php53-php-gettext"]
 	path = php53/php/php53-php-gettext
 	url = ssh://pkgs.fedoraproject.org/php53-php-gettext.git
+[submodule "php53/php53-simplepie"]
+	path = php53/php53-simplepie
+	url = ssh://pkgs.fedoraproject.org/php53-simplepie.git
