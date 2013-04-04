@@ -1315,3 +1315,6 @@
 [submodule "php/pecl/php-pecl-runkit"]
 	path = php/pecl/php-pecl-runkit
 	url = ssh://pkgs.fedoraproject.org/php-pecl-runkit.git
+[submodule "php/pecl/php-pecl-selinux"]
+	path = php/pecl/php-pecl-selinux
+	url = ssh://pkgs.fedoraproject.org/php-pecl-selinux.git
