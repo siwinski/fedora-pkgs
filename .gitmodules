@@ -1525,3 +1525,6 @@
 [submodule "php/symfony2/php-symfony2-Serializer"]
 	path = php/symfony2/php-symfony2-Serializer
 	url = ssh://pkgs.fedoraproject.org/php-symfony2-Serializer.git
+[submodule "php/symfony2/php-symfony2-Templating"]
+	path = php/symfony2/php-symfony2-Templating
+	url = ssh://pkgs.fedoraproject.org/php-symfony2-Templating.git
