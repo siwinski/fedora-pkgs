@@ -1408,3 +1408,6 @@
 [submodule "php/phpunit/php-phpunit-phpdcd"]
 	path = php/phpunit/php-phpunit-phpdcd
 	url = ssh://pkgs.fedoraproject.org/php-phpunit-phpdcd.git
+[submodule "php/phpunit/php-phpunit-phploc"]
+	path = php/phpunit/php-phpunit-phploc
+	url = ssh://pkgs.fedoraproject.org/php-phpunit-phploc.git
