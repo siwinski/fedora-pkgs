@@ -1480,3 +1480,6 @@
 [submodule "php/symfony2/php-symfony2-CssSelector"]
 	path = php/symfony2/php-symfony2-CssSelector
 	url = ssh://pkgs.fedoraproject.org/php-symfony2-CssSelector.git
+[submodule "php/symfony2/php-symfony2-DependencyInjection"]
+	path = php/symfony2/php-symfony2-DependencyInjection
+	url = ssh://pkgs.fedoraproject.org/php-symfony2-DependencyInjection.git
