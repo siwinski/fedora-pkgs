@@ -1225,3 +1225,6 @@
 [submodule "php/pear/php-pear-phing"]
 	path = php/pear/php-pear-phing
 	url = ssh://pkgs.fedoraproject.org/php-pear-phing.git
+[submodule "php/pear/php-pear-propel_generator"]
+	path = php/pear/php-pear-propel_generator
+	url = ssh://pkgs.fedoraproject.org/php-pear-propel_generator.git
