@@ -277,3 +277,6 @@
 [submodule "drupal7/drupal7-menu_token"]
 	path = drupal7/drupal7-menu_token
 	url = ssh://pkgs.fedoraproject.org/drupal7-menu_token.git
+[submodule "drupal7/drupal7-migrate"]
+	path = drupal7/drupal7-migrate
+	url = ssh://pkgs.fedoraproject.org/drupal7-migrate.git
