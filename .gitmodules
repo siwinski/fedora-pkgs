@@ -274,3 +274,6 @@
 [submodule "drupal7/drupal7-mediawiki_api"]
 	path = drupal7/drupal7-mediawiki_api
 	url = ssh://pkgs.fedoraproject.org/drupal7-mediawiki_api.git
+[submodule "drupal7/drupal7-menu_token"]
+	path = drupal7/drupal7-menu_token
+	url = ssh://pkgs.fedoraproject.org/drupal7-menu_token.git
