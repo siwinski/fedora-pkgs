@@ -1321,3 +1321,6 @@
 [submodule "php/pecl/php-pecl-solr"]
 	path = php/pecl/php-pecl-solr
 	url = ssh://pkgs.fedoraproject.org/php-pecl-solr.git
+[submodule "php/pecl/php-pecl-sphinx"]
+	path = php/pecl/php-pecl-sphinx
+	url = ssh://pkgs.fedoraproject.org/php-pecl-sphinx.git
