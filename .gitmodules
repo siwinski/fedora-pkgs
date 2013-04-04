@@ -1246,3 +1246,6 @@
 [submodule "php/pecl/php-pecl-gearman"]
 	path = php/pecl/php-pecl-gearman
 	url = ssh://pkgs.fedoraproject.org/php-pecl-gearman.git
+[submodule "php/pecl/php-pecl-geoip"]
+	path = php/pecl/php-pecl-geoip
+	url = ssh://pkgs.fedoraproject.org/php-pecl-geoip.git
