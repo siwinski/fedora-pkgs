@@ -1141,3 +1141,6 @@
 [submodule "php/pear/php-pear-SOAP"]
 	path = php/pear/php-pear-SOAP
 	url = ssh://pkgs.fedoraproject.org/php-pear-SOAP.git
+[submodule "php/pear/php-pear-Services-Twitter"]
+	path = php/pear/php-pear-Services-Twitter
+	url = ssh://pkgs.fedoraproject.org/php-pear-Services-Twitter.git
