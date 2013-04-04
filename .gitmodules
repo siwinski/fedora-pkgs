@@ -172,3 +172,6 @@
 [submodule "drupal6/drupal6-views_bulk_operations"]
 	path = drupal6/drupal6-views_bulk_operations
 	url = ssh://pkgs.fedoraproject.org/drupal6-views_bulk_operations.git
+[submodule "drupal6/drupal6-votingapi"]
+	path = drupal6/drupal6-votingapi
+	url = ssh://pkgs.fedoraproject.org/drupal6-votingapi.git
