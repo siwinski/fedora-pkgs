@@ -1306,3 +1306,6 @@
 [submodule "php/pecl/php-pecl-phar"]
 	path = php/pecl/php-pecl-phar
 	url = ssh://pkgs.fedoraproject.org/php-pecl-phar.git
+[submodule "php/pecl/php-pecl-radius"]
+	path = php/pecl/php-pecl-radius
+	url = ssh://pkgs.fedoraproject.org/php-pecl-radius.git
