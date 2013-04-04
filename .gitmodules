@@ -892,3 +892,6 @@
 [submodule "php/pear/php-pear-Config"]
 	path = php/pear/php-pear-Config
 	url = ssh://pkgs.fedoraproject.org/php-pear-Config.git
+[submodule "php/pear/php-pear-Console-Color"]
+	path = php/pear/php-pear-Console-Color
+	url = ssh://pkgs.fedoraproject.org/php-pear-Console-Color.git
