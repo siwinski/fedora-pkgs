@@ -421,3 +421,6 @@
 [submodule "php/channel/php-channel-drush"]
 	path = php/channel/php-channel-drush
 	url = ssh://pkgs.fedoraproject.org/php-channel-drush.git
+[submodule "php/channel/php-channel-ezc"]
+	path = php/channel/php-channel-ezc
+	url = ssh://pkgs.fedoraproject.org/php-channel-ezc.git
