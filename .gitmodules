@@ -382,3 +382,6 @@
 [submodule "php/php-Smarty2"]
 	path = php/php-Smarty2
 	url = ssh://pkgs.fedoraproject.org/php-Smarty2.git
+[submodule "php/php-SymfonyCmfRouting"]
+	path = php/php-SymfonyCmfRouting
+	url = ssh://pkgs.fedoraproject.org/php-SymfonyCmfRouting.git
