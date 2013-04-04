@@ -700,3 +700,6 @@
 [submodule "php/horde/php-horde-Horde-Memcache"]
 	path = php/horde/php-horde-Horde-Memcache
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Memcache.git
+[submodule "php/horde/php-horde-Horde-Mime"]
+	path = php/horde/php-horde-Horde-Mime
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Mime.git
