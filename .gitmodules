@@ -1417,3 +1417,6 @@
 [submodule "php/php-pluf"]
 	path = php/php-pluf
 	url = ssh://pkgs.fedoraproject.org/php-pluf.git
+[submodule "php/php-redis"]
+	path = php/php-redis
+	url = ssh://pkgs.fedoraproject.org/php-redis.git
