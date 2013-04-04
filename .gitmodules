@@ -571,3 +571,6 @@
 [submodule "php/ezc/php-ezc-Webdav"]
 	path = php/ezc/php-ezc-Webdav
 	url = ssh://pkgs.fedoraproject.org/php-ezc-Webdav.git
+[submodule "php/php-facedetect"]
+	path = php/php-facedetect
+	url = ssh://pkgs.fedoraproject.org/php-facedetect.git
