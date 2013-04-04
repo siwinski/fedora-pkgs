@@ -496,3 +496,6 @@
 [submodule "php/domxml/php-domxml-php4-php5"]
 	path = php/domxml/php-domxml-php4-php5
 	url = ssh://pkgs.fedoraproject.org/php-domxml-php4-php5.git
+[submodule "php/dropbox/php-dropbox-php-Dropbox"]
+	path = php/dropbox/php-dropbox-php-Dropbox
+	url = ssh://pkgs.fedoraproject.org/php-dropbox-php-Dropbox.git
