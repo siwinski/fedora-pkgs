@@ -481,3 +481,6 @@
 [submodule "php/php-cloudfiles"]
 	path = php/php-cloudfiles
 	url = ssh://pkgs.fedoraproject.org/php-cloudfiles.git
+[submodule "php/deepend/php-deepend-Mockery"]
+	path = php/deepend/php-deepend-Mockery
+	url = ssh://pkgs.fedoraproject.org/php-deepend-Mockery.git
