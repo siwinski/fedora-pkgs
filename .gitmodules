@@ -1105,3 +1105,6 @@
 [submodule "php/pear/php-pear-Numbers-Words"]
 	path = php/pear/php-pear-Numbers-Words
 	url = ssh://pkgs.fedoraproject.org/php-pear-Numbers-Words.git
+[submodule "php/pear/php-pear-OLE"]
+	path = php/pear/php-pear-OLE
+	url = ssh://pkgs.fedoraproject.org/php-pear-OLE.git
