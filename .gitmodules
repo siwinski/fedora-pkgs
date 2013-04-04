@@ -832,3 +832,6 @@
 [submodule "php/php-markdown"]
 	path = php/php-markdown
 	url = ssh://pkgs.fedoraproject.org/php-markdown.git
+[submodule "php/php-mmcache"]
+	path = php/php-mmcache
+	url = ssh://pkgs.fedoraproject.org/php-mmcache.git
