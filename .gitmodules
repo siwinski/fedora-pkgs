@@ -364,3 +364,6 @@
 [submodule "php/php-PhpOption"]
 	path = php/php-PhpOption
 	url = ssh://pkgs.fedoraproject.org/php-PhpOption.git
+[submodule "php/php-Pimple"]
+	path = php/php-Pimple
+	url = ssh://pkgs.fedoraproject.org/php-Pimple.git
