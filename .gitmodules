@@ -1249,3 +1249,6 @@
 [submodule "php/pecl/php-pecl-geoip"]
 	path = php/pecl/php-pecl-geoip
 	url = ssh://pkgs.fedoraproject.org/php-pecl-geoip.git
+[submodule "php/pecl/php-pecl-gmagick"]
+	path = php/pecl/php-pecl-gmagick
+	url = ssh://pkgs.fedoraproject.org/php-pecl-gmagick.git
