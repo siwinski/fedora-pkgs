@@ -1318,3 +1318,6 @@
 [submodule "php/pecl/php-pecl-selinux"]
 	path = php/pecl/php-pecl-selinux
 	url = ssh://pkgs.fedoraproject.org/php-pecl-selinux.git
+[submodule "php/pecl/php-pecl-solr"]
+	path = php/pecl/php-pecl-solr
+	url = ssh://pkgs.fedoraproject.org/php-pecl-solr.git
