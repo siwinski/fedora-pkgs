@@ -385,3 +385,6 @@
 [submodule "php/php-SymfonyCmfRouting"]
 	path = php/php-SymfonyCmfRouting
 	url = ssh://pkgs.fedoraproject.org/php-SymfonyCmfRouting.git
+[submodule "php/php-ZendFramework"]
+	path = php/php-ZendFramework
+	url = ssh://pkgs.fedoraproject.org/php-ZendFramework.git
