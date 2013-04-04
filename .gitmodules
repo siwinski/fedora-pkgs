@@ -1432,3 +1432,6 @@
 [submodule "php/sabredav/php-sabredav-Sabre_DAV"]
 	path = php/sabredav/php-sabredav-Sabre_DAV
 	url = ssh://pkgs.fedoraproject.org/php-sabredav-Sabre_DAV.git
+[submodule "php/sabredav/php-sabredav-Sabre_DAVACL"]
+	path = php/sabredav/php-sabredav-Sabre_DAVACL
+	url = ssh://pkgs.fedoraproject.org/php-sabredav-Sabre_DAVACL.git
