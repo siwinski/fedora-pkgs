@@ -439,3 +439,6 @@
 [submodule "php/channel/php-channel-pearplex"]
 	path = php/channel/php-channel-pearplex
 	url = ssh://pkgs.fedoraproject.org/php-channel-pearplex.git
+[submodule "php/channel/php-channel-phing"]
+	path = php/channel/php-channel-phing
+	url = ssh://pkgs.fedoraproject.org/php-channel-phing.git
