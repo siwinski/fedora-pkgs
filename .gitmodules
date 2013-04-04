@@ -415,3 +415,6 @@
 [submodule "php/channel/php-channel-doctrine"]
 	path = php/channel/php-channel-doctrine
 	url = ssh://pkgs.fedoraproject.org/php-channel-doctrine.git
+[submodule "php/channel/php-channel-dropbox-php"]
+	path = php/channel/php-channel-dropbox-php
+	url = ssh://pkgs.fedoraproject.org/php-channel-dropbox-php.git
