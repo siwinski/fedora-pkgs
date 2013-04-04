@@ -796,3 +796,6 @@
 [submodule "php/php-htmLawed"]
 	path = php/php-htmLawed
 	url = ssh://pkgs.fedoraproject.org/php-htmLawed.git
+[submodule "php/htmlpurifier/php-htmlpurifier-htmlpurifier"]
+	path = php/htmlpurifier/php-htmlpurifier-htmlpurifier
+	url = ssh://pkgs.fedoraproject.org/php-htmlpurifier-htmlpurifier.git
