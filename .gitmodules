@@ -844,3 +844,6 @@
 [submodule "php/password/php-password-compat"]
 	path = php/password/php-password-compat
 	url = ssh://pkgs.fedoraproject.org/php-password-compat.git
+[submodule "php/php-pdb"]
+	path = php/php-pdb
+	url = ssh://pkgs.fedoraproject.org/php-pdb.git
