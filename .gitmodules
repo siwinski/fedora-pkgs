@@ -121,3 +121,6 @@
 [submodule "drupal6/drupal6-link"]
 	path = drupal6/drupal6-link
 	url = ssh://pkgs.fedoraproject.org/drupal6-link.git
+[submodule "drupal6/drupal6-login_destination"]
+	path = drupal6/drupal6-login_destination
+	url = ssh://pkgs.fedoraproject.org/drupal6-login_destination.git
