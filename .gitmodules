@@ -1234,3 +1234,6 @@
 [submodule "php/pecl/php-pecl-Fileinfo"]
 	path = php/pecl/php-pecl-Fileinfo
 	url = ssh://pkgs.fedoraproject.org/php-pecl-Fileinfo.git
+[submodule "php/pecl/php-pecl-amqp"]
+	path = php/pecl/php-pecl-amqp
+	url = ssh://pkgs.fedoraproject.org/php-pecl-amqp.git
