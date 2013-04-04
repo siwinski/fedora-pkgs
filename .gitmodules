@@ -538,3 +538,6 @@
 [submodule "php/ezc/php-ezc-DatabaseSchema"]
 	path = php/ezc/php-ezc-DatabaseSchema
 	url = ssh://pkgs.fedoraproject.org/php-ezc-DatabaseSchema.git
+[submodule "php/ezc/php-ezc-EventLog"]
+	path = php/ezc/php-ezc-EventLog
+	url = ssh://pkgs.fedoraproject.org/php-ezc-EventLog.git
