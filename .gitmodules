@@ -946,3 +946,6 @@
 [submodule "php/pear/php-pear-File-CSV"]
 	path = php/pear/php-pear-File-CSV
 	url = ssh://pkgs.fedoraproject.org/php-pear-File-CSV.git
+[submodule "php/pear/php-pear-File-Find"]
+	path = php/pear/php-pear-File-Find
+	url = ssh://pkgs.fedoraproject.org/php-pear-File-Find.git
