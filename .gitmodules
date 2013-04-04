@@ -169,3 +169,6 @@
 [submodule "drupal6/drupal6-views_bonus"]
 	path = drupal6/drupal6-views_bonus
 	url = ssh://pkgs.fedoraproject.org/drupal6-views_bonus.git
+[submodule "drupal6/drupal6-views_bulk_operations"]
+	path = drupal6/drupal6-views_bulk_operations
+	url = ssh://pkgs.fedoraproject.org/drupal6-views_bulk_operations.git
