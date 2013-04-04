@@ -733,3 +733,6 @@
 [submodule "php/horde/php-horde-Horde-Serialize"]
 	path = php/horde/php-horde-Horde-Serialize
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Serialize.git
+[submodule "php/horde/php-horde-Horde-SpellChecker"]
+	path = php/horde/php-horde-Horde-SpellChecker
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-SpellChecker.git
