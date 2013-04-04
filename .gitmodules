@@ -958,3 +958,6 @@
 [submodule "php/pear/php-pear-File-SMBPasswd"]
 	path = php/pear/php-pear-File-SMBPasswd
 	url = ssh://pkgs.fedoraproject.org/php-pear-File-SMBPasswd.git
+[submodule "php/pear/php-pear-File-Util"]
+	path = php/pear/php-pear-File-Util
+	url = ssh://pkgs.fedoraproject.org/php-pear-File-Util.git
