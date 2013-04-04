@@ -661,3 +661,6 @@
 [submodule "php/horde/php-horde-Horde-Group"]
 	path = php/horde/php-horde-Horde-Group
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Group.git
+[submodule "php/horde/php-horde-Horde-Http"]
+	path = php/horde/php-horde-Horde-Http
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Http.git
