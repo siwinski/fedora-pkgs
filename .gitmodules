@@ -655,3 +655,6 @@
 [submodule "php/horde/php-horde-Horde-Exception"]
 	path = php/horde/php-horde-Horde-Exception
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Exception.git
+[submodule "php/horde/php-horde-Horde-Feed"]
+	path = php/horde/php-horde-Horde-Feed
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Feed.git
