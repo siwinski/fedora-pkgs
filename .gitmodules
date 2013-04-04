@@ -631,3 +631,6 @@
 [submodule "php/horde/php-horde-Horde-Crypt"]
 	path = php/horde/php-horde-Horde-Crypt
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Crypt.git
+[submodule "php/horde/php-horde-Horde-Crypt-Blowfish"]
+	path = php/horde/php-horde-Horde-Crypt-Blowfish
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Crypt-Blowfish.git
