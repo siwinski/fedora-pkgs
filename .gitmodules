@@ -1069,3 +1069,6 @@
 [submodule "php/pear/php-pear-Net-IPv4"]
 	path = php/pear/php-pear-Net-IPv4
 	url = ssh://pkgs.fedoraproject.org/php-pear-Net-IPv4.git
+[submodule "php/pear/php-pear-Net-POP3"]
+	path = php/pear/php-pear-Net-POP3
+	url = ssh://pkgs.fedoraproject.org/php-pear-Net-POP3.git
