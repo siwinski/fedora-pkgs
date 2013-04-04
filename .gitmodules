@@ -736,3 +736,6 @@
 [submodule "php/horde/php-horde-Horde-SpellChecker"]
 	path = php/horde/php-horde-Horde-SpellChecker
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-SpellChecker.git
+[submodule "php/horde/php-horde-Horde-Stream"]
+	path = php/horde/php-horde-Horde-Stream
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Stream.git
