@@ -1009,3 +1009,6 @@
 [submodule "php/pear/php-pear-Image-Color"]
 	path = php/pear/php-pear-Image-Color
 	url = ssh://pkgs.fedoraproject.org/php-pear-Image-Color.git
+[submodule "php/pear/php-pear-Image-Graph"]
+	path = php/pear/php-pear-Image-Graph
+	url = ssh://pkgs.fedoraproject.org/php-pear-Image-Graph.git
