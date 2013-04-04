@@ -919,3 +919,6 @@
 [submodule "php/pear/php-pear-DB-DataObject"]
 	path = php/pear/php-pear-DB-DataObject
 	url = ssh://pkgs.fedoraproject.org/php-pear-DB-DataObject.git
+[submodule "php/pear/php-pear-DB-DataObject-FormBuilder"]
+	path = php/pear/php-pear-DB-DataObject-FormBuilder
+	url = ssh://pkgs.fedoraproject.org/php-pear-DB-DataObject-FormBuilder.git
