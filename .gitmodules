@@ -976,3 +976,6 @@
 [submodule "php/pear/php-pear-HTML-Table"]
 	path = php/pear/php-pear-HTML-Table
 	url = ssh://pkgs.fedoraproject.org/php-pear-HTML-Table.git
+[submodule "php/pear/php-pear-HTML-Template-IT"]
+	path = php/pear/php-pear-HTML-Template-IT
+	url = ssh://pkgs.fedoraproject.org/php-pear-HTML-Template-IT.git
