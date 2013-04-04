@@ -79,3 +79,6 @@
 [submodule "drupal6/drupal6-fivestar"]
 	path = drupal6/drupal6-fivestar
 	url = ssh://pkgs.fedoraproject.org/drupal6-fivestar.git
+[submodule "drupal6/drupal6-flag"]
+	path = drupal6/drupal6-flag
+	url = ssh://pkgs.fedoraproject.org/drupal6-flag.git
