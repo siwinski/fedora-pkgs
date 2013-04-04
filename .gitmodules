@@ -340,3 +340,6 @@
 [submodule "php/php-JsonSchema"]
 	path = php/php-JsonSchema
 	url = ssh://pkgs.fedoraproject.org/php-JsonSchema.git
+[submodule "php/php-Kohana"]
+	path = php/php-Kohana
+	url = ssh://pkgs.fedoraproject.org/php-Kohana.git
