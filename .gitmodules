@@ -874,3 +874,6 @@
 [submodule "php/pear/php-pear-Benchmark"]
 	path = php/pear/php-pear-Benchmark
 	url = ssh://pkgs.fedoraproject.org/php-pear-Benchmark.git
+[submodule "php/pear/php-pear-CAS"]
+	path = php/pear/php-pear-CAS
+	url = ssh://pkgs.fedoraproject.org/php-pear-CAS.git
