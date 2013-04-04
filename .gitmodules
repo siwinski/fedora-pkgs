@@ -766,3 +766,6 @@
 [submodule "php/horde/php-horde-Horde-Text-Flowed"]
 	path = php/horde/php-horde-Horde-Text-Flowed
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Text-Flowed.git
+[submodule "php/horde/php-horde-Horde-Thrift"]
+	path = php/horde/php-horde-Horde-Thrift
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Thrift.git
