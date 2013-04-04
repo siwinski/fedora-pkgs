@@ -1426,3 +1426,6 @@
 [submodule "php/sabredav/php-sabredav-Sabre_CalDAV"]
 	path = php/sabredav/php-sabredav-Sabre_CalDAV
 	url = ssh://pkgs.fedoraproject.org/php-sabredav-Sabre_CalDAV.git
+[submodule "php/sabredav/php-sabredav-Sabre_CardDAV"]
+	path = php/sabredav/php-sabredav-Sabre_CardDAV
+	url = ssh://pkgs.fedoraproject.org/php-sabredav-Sabre_CardDAV.git
