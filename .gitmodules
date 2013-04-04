@@ -928,3 +928,6 @@
 [submodule "php/pear/php-pear-Date"]
 	path = php/pear/php-pear-Date
 	url = ssh://pkgs.fedoraproject.org/php-pear-Date.git
+[submodule "php/pear/php-pear-Date-Holidays"]
+	path = php/pear/php-pear-Date-Holidays
+	url = ssh://pkgs.fedoraproject.org/php-pear-Date-Holidays.git
