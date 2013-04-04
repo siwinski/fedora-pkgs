@@ -1354,3 +1354,6 @@
 [submodule "php/php-phpass"]
 	path = php/php-phpass
 	url = ssh://pkgs.fedoraproject.org/php-phpass.git
+[submodule "php/phpmd/php-phpmd-PHP-PMD"]
+	path = php/phpmd/php-phpmd-PHP-PMD
+	url = ssh://pkgs.fedoraproject.org/php-phpmd-PHP-PMD.git
