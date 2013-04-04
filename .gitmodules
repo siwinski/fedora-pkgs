@@ -730,3 +730,6 @@
 [submodule "php/horde/php-horde-Horde-Secret"]
 	path = php/horde/php-horde-Horde-Secret
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Secret.git
+[submodule "php/horde/php-horde-Horde-Serialize"]
+	path = php/horde/php-horde-Horde-Serialize
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Serialize.git
