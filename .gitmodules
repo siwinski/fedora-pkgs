@@ -1342,3 +1342,6 @@
 [submodule "php/pecl/php-pecl-yaml"]
 	path = php/pecl/php-pecl-yaml
 	url = ssh://pkgs.fedoraproject.org/php-pecl-yaml.git
+[submodule "php/pecl/php-pecl-zip"]
+	path = php/pecl/php-pecl-zip
+	url = ssh://pkgs.fedoraproject.org/php-pecl-zip.git
