@@ -913,3 +913,6 @@
 [submodule "php/pear/php-pear-Crypt-CHAP"]
 	path = php/pear/php-pear-Crypt-CHAP
 	url = ssh://pkgs.fedoraproject.org/php-pear-Crypt-CHAP.git
+[submodule "php/pear/php-pear-DB"]
+	path = php/pear/php-pear-DB
+	url = ssh://pkgs.fedoraproject.org/php-pear-DB.git
