@@ -412,3 +412,6 @@
 [submodule "php/channel/php-channel-digitalsandwich"]
 	path = php/channel/php-channel-digitalsandwich
 	url = ssh://pkgs.fedoraproject.org/php-channel-digitalsandwich.git
+[submodule "php/channel/php-channel-doctrine"]
+	path = php/channel/php-channel-doctrine
+	url = ssh://pkgs.fedoraproject.org/php-channel-doctrine.git
