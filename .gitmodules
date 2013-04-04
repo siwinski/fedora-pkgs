@@ -358,3 +358,6 @@
 [submodule "php/php-PHPParser"]
 	path = php/php-PHPParser
 	url = ssh://pkgs.fedoraproject.org/php-PHPParser.git
+[submodule "php/php-PhpCollection"]
+	path = php/php-PhpCollection
+	url = ssh://pkgs.fedoraproject.org/php-PhpCollection.git
