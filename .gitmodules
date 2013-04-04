@@ -1585,3 +1585,6 @@
 [submodule "php/phpMyAdmin3"]
 	path = php/phpMyAdmin3
 	url = ssh://pkgs.fedoraproject.org/phpMyAdmin3.git
+[submodule "php/phpPgAdmin"]
+	path = php/phpPgAdmin
+	url = ssh://pkgs.fedoraproject.org/phpPgAdmin.git
