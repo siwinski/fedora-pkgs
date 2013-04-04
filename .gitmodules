@@ -1078,3 +1078,6 @@
 [submodule "php/pear/php-pear-Net-SMTP"]
 	path = php/pear/php-pear-Net-SMTP
 	url = ssh://pkgs.fedoraproject.org/php-pear-Net-SMTP.git
+[submodule "php/pear/php-pear-Net-Sieve"]
+	path = php/pear/php-pear-Net-Sieve
+	url = ssh://pkgs.fedoraproject.org/php-pear-Net-Sieve.git
