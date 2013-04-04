@@ -721,3 +721,6 @@
 [submodule "php/horde/php-horde-Horde-Role"]
 	path = php/horde/php-horde-Horde-Role
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Role.git
+[submodule "php/horde/php-horde-Horde-Routes"]
+	path = php/horde/php-horde-Horde-Routes
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Routes.git
