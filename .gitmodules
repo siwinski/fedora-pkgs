@@ -1441,3 +1441,6 @@
 [submodule "php/sabredav/php-sabredav-Sabre_VObject"]
 	path = php/sabredav/php-sabredav-Sabre_VObject
 	url = ssh://pkgs.fedoraproject.org/php-sabredav-Sabre_VObject.git
+[submodule "php/php-scssphp"]
+	path = php/php-scssphp
+	url = ssh://pkgs.fedoraproject.org/php-scssphp.git
