@@ -409,3 +409,6 @@
 [submodule "php/channel/php-channel-deepend"]
 	path = php/channel/php-channel-deepend
 	url = ssh://pkgs.fedoraproject.org/php-channel-deepend.git
+[submodule "php/channel/php-channel-digitalsandwich"]
+	path = php/channel/php-channel-digitalsandwich
+	url = ssh://pkgs.fedoraproject.org/php-channel-digitalsandwich.git
