@@ -1483,3 +1483,6 @@
 [submodule "php/symfony2/php-symfony2-DependencyInjection"]
 	path = php/symfony2/php-symfony2-DependencyInjection
 	url = ssh://pkgs.fedoraproject.org/php-symfony2-DependencyInjection.git
+[submodule "php/symfony2/php-symfony2-DomCrawler"]
+	path = php/symfony2/php-symfony2-DomCrawler
+	url = ssh://pkgs.fedoraproject.org/php-symfony2-DomCrawler.git
