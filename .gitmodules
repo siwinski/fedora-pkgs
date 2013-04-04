@@ -145,3 +145,6 @@
 [submodule "drupal6/drupal6-pathauto"]
 	path = drupal6/drupal6-pathauto
 	url = ssh://pkgs.fedoraproject.org/drupal6-pathauto.git
+[submodule "drupal6/drupal6-rules"]
+	path = drupal6/drupal6-rules
+	url = ssh://pkgs.fedoraproject.org/drupal6-rules.git
