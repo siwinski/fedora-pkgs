@@ -1162,3 +1162,6 @@
 [submodule "php/pear/php-pear-Structures-DataGrid-DataSource-MDB2"]
 	path = php/pear/php-pear-Structures-DataGrid-DataSource-MDB2
 	url = ssh://pkgs.fedoraproject.org/php-pear-Structures-DataGrid-DataSource-MDB2.git
+[submodule "php/pear/php-pear-Structures-DataGrid-DataSource-RSS"]
+	path = php/pear/php-pear-Structures-DataGrid-DataSource-RSS
+	url = ssh://pkgs.fedoraproject.org/php-pear-Structures-DataGrid-DataSource-RSS.git
