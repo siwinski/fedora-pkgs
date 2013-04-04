@@ -220,3 +220,6 @@
 [submodule "drupal7/drupal7-date_ical"]
 	path = drupal7/drupal7-date_ical
 	url = ssh://pkgs.fedoraproject.org/drupal7-date_ical.git
+[submodule "drupal7/drupal7-diff"]
+	path = drupal7/drupal7-diff
+	url = ssh://pkgs.fedoraproject.org/drupal7-diff.git
