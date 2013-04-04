@@ -1126,3 +1126,6 @@
 [submodule "php/pear/php-pear-PHPUnit2"]
 	path = php/pear/php-pear-PHPUnit2
 	url = ssh://pkgs.fedoraproject.org/php-pear-PHPUnit2.git
+[submodule "php/pear/php-pear-Pager"]
+	path = php/pear/php-pear-Pager
+	url = ssh://pkgs.fedoraproject.org/php-pear-Pager.git
