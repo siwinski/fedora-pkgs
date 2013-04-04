@@ -1279,3 +1279,6 @@
 [submodule "php/pecl/php-pecl-mongo"]
 	path = php/pecl/php-pecl-mongo
 	url = ssh://pkgs.fedoraproject.org/php-pecl-mongo.git
+[submodule "php/pecl/php-pecl-msgpack"]
+	path = php/pecl/php-pecl-msgpack
+	url = ssh://pkgs.fedoraproject.org/php-pecl-msgpack.git
