@@ -772,3 +772,6 @@
 [submodule "php/horde/php-horde-Horde-Token"]
 	path = php/horde/php-horde-Horde-Token
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Token.git
+[submodule "php/horde/php-horde-Horde-Translation"]
+	path = php/horde/php-horde-Horde-Translation
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Translation.git
