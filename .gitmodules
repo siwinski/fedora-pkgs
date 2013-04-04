@@ -535,3 +535,6 @@
 [submodule "php/ezc/php-ezc-Database"]
 	path = php/ezc/php-ezc-Database
 	url = ssh://pkgs.fedoraproject.org/php-ezc-Database.git
+[submodule "php/ezc/php-ezc-DatabaseSchema"]
+	path = php/ezc/php-ezc-DatabaseSchema
+	url = ssh://pkgs.fedoraproject.org/php-ezc-DatabaseSchema.git
