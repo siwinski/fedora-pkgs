@@ -286,3 +286,6 @@
 [submodule "drupal7/drupal7-rules"]
 	path = drupal7/drupal7-rules
 	url = ssh://pkgs.fedoraproject.org/drupal7-rules.git
+[submodule "drupal7/drupal7-strongarm"]
+	path = drupal7/drupal7-strongarm
+	url = ssh://pkgs.fedoraproject.org/drupal7-strongarm.git
