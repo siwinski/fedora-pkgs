@@ -367,3 +367,6 @@
 [submodule "php/php-Pimple"]
 	path = php/php-Pimple
 	url = ssh://pkgs.fedoraproject.org/php-Pimple.git
+[submodule "php/php-PsrLog"]
+	path = php/php-PsrLog
+	url = ssh://pkgs.fedoraproject.org/php-PsrLog.git
