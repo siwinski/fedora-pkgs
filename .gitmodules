@@ -148,3 +148,6 @@
 [submodule "drupal6/drupal6-rules"]
 	path = drupal6/drupal6-rules
 	url = ssh://pkgs.fedoraproject.org/drupal6-rules.git
+[submodule "drupal6/drupal6-service_links"]
+	path = drupal6/drupal6-service_links
+	url = ssh://pkgs.fedoraproject.org/drupal6-service_links.git
