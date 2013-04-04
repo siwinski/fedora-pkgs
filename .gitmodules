@@ -292,3 +292,6 @@
 [submodule "drupal7/drupal7-theme-adaptivetheme"]
 	path = drupal7/drupal7-theme-adaptivetheme
 	url = ssh://pkgs.fedoraproject.org/drupal7-theme-adaptivetheme.git
+[submodule "drupal7/drupal7-theme-ninesixty"]
+	path = drupal7/drupal7-theme-ninesixty
+	url = ssh://pkgs.fedoraproject.org/drupal7-theme-ninesixty.git
