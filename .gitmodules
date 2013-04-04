@@ -826,3 +826,6 @@
 [submodule "php/php-magpierss"]
 	path = php/php-magpierss
 	url = ssh://pkgs.fedoraproject.org/php-magpierss.git
+[submodule "php/manual/php-manual-en"]
+	path = php/manual/php-manual-en
+	url = ssh://pkgs.fedoraproject.org/php-manual-en.git
