@@ -823,3 +823,6 @@
 [submodule "php/php-magickwand"]
 	path = php/php-magickwand
 	url = ssh://pkgs.fedoraproject.org/php-magickwand.git
+[submodule "php/php-magpierss"]
+	path = php/php-magpierss
+	url = ssh://pkgs.fedoraproject.org/php-magpierss.git
