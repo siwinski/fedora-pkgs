@@ -508,3 +508,6 @@
 [submodule "php/email/php-email-address-validation"]
 	path = php/email/php-email-address-validation
 	url = ssh://pkgs.fedoraproject.org/php-email-address-validation.git
+[submodule "php/php-extras"]
+	path = php/php-extras
+	url = ssh://pkgs.fedoraproject.org/php-extras.git
