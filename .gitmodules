@@ -757,3 +757,6 @@
 [submodule "php/horde/php-horde-Horde-Test"]
 	path = php/horde/php-horde-Horde-Test
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Test.git
+[submodule "php/horde/php-horde-Horde-Text-Diff"]
+	path = php/horde/php-horde-Horde-Text-Diff
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Text-Diff.git
