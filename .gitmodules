@@ -802,3 +802,6 @@
 [submodule "php/php-idn"]
 	path = php/php-idn
 	url = ssh://pkgs.fedoraproject.org/php-idn.git
+[submodule "php/php-json"]
+	path = php/php-json
+	url = ssh://pkgs.fedoraproject.org/php-json.git
