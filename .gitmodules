@@ -625,3 +625,6 @@
 [submodule "php/horde/php-horde-Horde-Constraint"]
 	path = php/horde/php-horde-Horde-Constraint
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Constraint.git
+[submodule "php/horde/php-horde-Horde-Controller"]
+	path = php/horde/php-horde-Horde-Controller
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Controller.git
