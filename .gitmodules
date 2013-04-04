@@ -1378,3 +1378,6 @@
 [submodule "php/phpunit/php-phpunit-PHP-Timer"]
 	path = php/phpunit/php-phpunit-PHP-Timer
 	url = ssh://pkgs.fedoraproject.org/php-phpunit-PHP-Timer.git
+[submodule "php/phpunit/php-phpunit-PHP-TokenStream"]
+	path = php/phpunit/php-phpunit-PHP-TokenStream
+	url = ssh://pkgs.fedoraproject.org/php-phpunit-PHP-TokenStream.git
