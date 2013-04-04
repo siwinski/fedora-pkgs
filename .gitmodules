@@ -865,3 +865,6 @@
 [submodule "php/pear/php-pear-Auth-SASL"]
 	path = php/pear/php-pear-Auth-SASL
 	url = ssh://pkgs.fedoraproject.org/php-pear-Auth-SASL.git
+[submodule "php/pear/php-pear-Auth-Yubico"]
+	path = php/pear/php-pear-Auth-Yubico
+	url = ssh://pkgs.fedoraproject.org/php-pear-Auth-Yubico.git
