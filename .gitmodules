@@ -1159,3 +1159,6 @@
 [submodule "php/pear/php-pear-Structures-DataGrid-DataSource-DataObject"]
 	path = php/pear/php-pear-Structures-DataGrid-DataSource-DataObject
 	url = ssh://pkgs.fedoraproject.org/php-pear-Structures-DataGrid-DataSource-DataObject.git
+[submodule "php/pear/php-pear-Structures-DataGrid-DataSource-MDB2"]
+	path = php/pear/php-pear-Structures-DataGrid-DataSource-MDB2
+	url = ssh://pkgs.fedoraproject.org/php-pear-Structures-DataGrid-DataSource-MDB2.git
