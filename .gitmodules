@@ -1543,3 +1543,6 @@
 [submodule "php/twig/php-twig-Twig"]
 	path = php/twig/php-twig-Twig
 	url = ssh://pkgs.fedoraproject.org/php-twig-Twig.git
+[submodule "php/voms/php-voms-admin"]
+	path = php/voms/php-voms-admin
+	url = ssh://pkgs.fedoraproject.org/php-voms-admin.git
