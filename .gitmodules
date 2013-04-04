@@ -328,3 +328,6 @@
 [submodule "php/php-EasyRdf"]
 	path = php/php-EasyRdf
 	url = ssh://pkgs.fedoraproject.org/php-EasyRdf.git
+[submodule "php/php-Faker"]
+	path = php/php-Faker
+	url = ssh://pkgs.fedoraproject.org/php-Faker.git
