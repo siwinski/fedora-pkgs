@@ -1486,3 +1486,6 @@
 [submodule "php/symfony2/php-symfony2-DomCrawler"]
 	path = php/symfony2/php-symfony2-DomCrawler
 	url = ssh://pkgs.fedoraproject.org/php-symfony2-DomCrawler.git
+[submodule "php/symfony2/php-symfony2-EventDispatcher"]
+	path = php/symfony2/php-symfony2-EventDispatcher
+	url = ssh://pkgs.fedoraproject.org/php-symfony2-EventDispatcher.git
