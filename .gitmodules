@@ -1393,3 +1393,6 @@
 [submodule "php/phpunit/php-phpunit-PHPUnit-SkeletonGenerator"]
 	path = php/phpunit/php-phpunit-PHPUnit-SkeletonGenerator
 	url = ssh://pkgs.fedoraproject.org/php-phpunit-PHPUnit-SkeletonGenerator.git
+[submodule "php/phpunit/php-phpunit-PHPUnit-Story"]
+	path = php/phpunit/php-phpunit-PHPUnit-Story
+	url = ssh://pkgs.fedoraproject.org/php-phpunit-PHPUnit-Story.git
