@@ -937,3 +937,6 @@
 [submodule "php/pear/php-pear-Event-Dispatcher"]
 	path = php/pear/php-pear-Event-Dispatcher
 	url = ssh://pkgs.fedoraproject.org/php-pear-Event-Dispatcher.git
+[submodule "php/pear/php-pear-File"]
+	path = php/pear/php-pear-File
+	url = ssh://pkgs.fedoraproject.org/php-pear-File.git
