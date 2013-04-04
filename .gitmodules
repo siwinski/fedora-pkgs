@@ -760,3 +760,6 @@
 [submodule "php/horde/php-horde-Horde-Text-Diff"]
 	path = php/horde/php-horde-Horde-Text-Diff
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Text-Diff.git
+[submodule "php/horde/php-horde-Horde-Text-Filter"]
+	path = php/horde/php-horde-Horde-Text-Filter
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Text-Filter.git
