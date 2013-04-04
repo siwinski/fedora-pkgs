@@ -589,3 +589,6 @@
 [submodule "php/php-gettext"]
 	path = php/php-gettext
 	url = ssh://pkgs.fedoraproject.org/php-gettext.git
+[submodule "php/guzzle/php-guzzle-Guzzle"]
+	path = php/guzzle/php-guzzle-Guzzle
+	url = ssh://pkgs.fedoraproject.org/php-guzzle-Guzzle.git
