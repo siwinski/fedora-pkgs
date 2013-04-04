@@ -1117,3 +1117,6 @@
 [submodule "php/pear/php-pear-PHP-Compat"]
 	path = php/pear/php-pear-PHP-Compat
 	url = ssh://pkgs.fedoraproject.org/php-pear-PHP-Compat.git
+[submodule "php/pear/php-pear-PHP-CompatInfo"]
+	path = php/pear/php-pear-PHP-CompatInfo
+	url = ssh://pkgs.fedoraproject.org/php-pear-PHP-CompatInfo.git
