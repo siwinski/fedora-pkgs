@@ -196,3 +196,6 @@
 [submodule "drupal7/drupal7-backup_migrate"]
 	path = drupal7/drupal7-backup_migrate
 	url = ssh://pkgs.fedoraproject.org/drupal7-backup_migrate.git
+[submodule "drupal7/drupal7-calendar"]
+	path = drupal7/drupal7-calendar
+	url = ssh://pkgs.fedoraproject.org/drupal7-calendar.git
