@@ -202,3 +202,6 @@
 [submodule "drupal7/drupal7-cck"]
 	path = drupal7/drupal7-cck
 	url = ssh://pkgs.fedoraproject.org/drupal7-cck.git
+[submodule "drupal7/drupal7-chosen"]
+	path = drupal7/drupal7-chosen
+	url = ssh://pkgs.fedoraproject.org/drupal7-chosen.git
