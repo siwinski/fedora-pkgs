@@ -1,0 +1,3 @@
+[submodule "drupal6/drupal6"]
+	path = drupal6/drupal6
+	url = ssh://pkgs.fedoraproject.org/drupal6.git
