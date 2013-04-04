@@ -1207,3 +1207,6 @@
 [submodule "php/pear/php-pear-XML-RSS"]
 	path = php/pear/php-pear-XML-RSS
 	url = ssh://pkgs.fedoraproject.org/php-pear-XML-RSS.git
+[submodule "php/pear/php-pear-XML-SVG"]
+	path = php/pear/php-pear-XML-SVG
+	url = ssh://pkgs.fedoraproject.org/php-pear-XML-SVG.git
