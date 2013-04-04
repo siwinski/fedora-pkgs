@@ -1132,3 +1132,6 @@
 [submodule "php/pear/php-pear-Payment-Process"]
 	path = php/pear/php-pear-Payment-Process
 	url = ssh://pkgs.fedoraproject.org/php-pear-Payment-Process.git
+[submodule "php/pear/php-pear-Phlickr"]
+	path = php/pear/php-pear-Phlickr
+	url = ssh://pkgs.fedoraproject.org/php-pear-Phlickr.git
