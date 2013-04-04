@@ -1054,3 +1054,6 @@
 [submodule "php/pear/php-pear-Net-DIME"]
 	path = php/pear/php-pear-Net-DIME
 	url = ssh://pkgs.fedoraproject.org/php-pear-Net-DIME.git
+[submodule "php/pear/php-pear-Net-DNS"]
+	path = php/pear/php-pear-Net-DNS
+	url = ssh://pkgs.fedoraproject.org/php-pear-Net-DNS.git
