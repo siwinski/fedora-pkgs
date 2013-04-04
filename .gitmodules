@@ -583,3 +583,6 @@
 [submodule "php/php-geshi"]
 	path = php/php-geshi
 	url = ssh://pkgs.fedoraproject.org/php-geshi.git
+[submodule "php/php-getid3"]
+	path = php/php-getid3
+	url = ssh://pkgs.fedoraproject.org/php-getid3.git
