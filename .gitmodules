@@ -115,3 +115,6 @@
 [submodule "drupal6/drupal6-insert"]
 	path = drupal6/drupal6-insert
 	url = ssh://pkgs.fedoraproject.org/drupal6-insert.git
+[submodule "drupal6/drupal6-job_scheduler"]
+	path = drupal6/drupal6-job_scheduler
+	url = ssh://pkgs.fedoraproject.org/drupal6-job_scheduler.git
