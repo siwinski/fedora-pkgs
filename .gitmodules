@@ -679,3 +679,6 @@
 [submodule "php/horde/php-horde-Horde-Injector"]
 	path = php/horde/php-horde-Horde-Injector
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Injector.git
+[submodule "php/horde/php-horde-Horde-Kolab-Format"]
+	path = php/horde/php-horde-Horde-Kolab-Format
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Kolab-Format.git
