@@ -853,3 +853,6 @@
 [submodule "php/php-pear"]
 	path = php/php-pear
 	url = ssh://pkgs.fedoraproject.org/php-pear.git
+[submodule "php/pear/php-pear-Auth"]
+	path = php/pear/php-pear-Auth
+	url = ssh://pkgs.fedoraproject.org/php-pear-Auth.git
