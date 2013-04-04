@@ -124,3 +124,6 @@
 [submodule "drupal6/drupal6-login_destination"]
 	path = drupal6/drupal6-login_destination
 	url = ssh://pkgs.fedoraproject.org/drupal6-login_destination.git
+[submodule "drupal6/drupal6-markdown"]
+	path = drupal6/drupal6-markdown
+	url = ssh://pkgs.fedoraproject.org/drupal6-markdown.git
