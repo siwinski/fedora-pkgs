@@ -613,3 +613,6 @@
 [submodule "php/horde/php-horde-Horde-Cache"]
 	path = php/horde/php-horde-Horde-Cache
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Cache.git
+[submodule "php/horde/php-horde-Horde-Cli"]
+	path = php/horde/php-horde-Horde-Cli
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Cli.git
