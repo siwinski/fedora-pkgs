@@ -394,3 +394,6 @@
 [submodule "php/bartlett/php-bartlett-PHP-CompatInfo"]
 	path = php/bartlett/php-bartlett-PHP-CompatInfo
 	url = ssh://pkgs.fedoraproject.org/php-bartlett-PHP-CompatInfo.git
+[submodule "php/bartlett/php-bartlett-PHP-Reflect"]
+	path = php/bartlett/php-bartlett-PHP-Reflect
+	url = ssh://pkgs.fedoraproject.org/php-bartlett-PHP-Reflect.git
