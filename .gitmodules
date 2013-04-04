@@ -580,3 +580,6 @@
 [submodule "php/php-fpdf"]
 	path = php/php-fpdf
 	url = ssh://pkgs.fedoraproject.org/php-fpdf.git
+[submodule "php/php-geshi"]
+	path = php/php-geshi
+	url = ssh://pkgs.fedoraproject.org/php-geshi.git
