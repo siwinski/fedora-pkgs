@@ -1405,3 +1405,6 @@
 [submodule "php/phpunit/php-phpunit-phpcpd"]
 	path = php/phpunit/php-phpunit-phpcpd
 	url = ssh://pkgs.fedoraproject.org/php-phpunit-phpcpd.git
+[submodule "php/phpunit/php-phpunit-phpdcd"]
+	path = php/phpunit/php-phpunit-phpdcd
+	url = ssh://pkgs.fedoraproject.org/php-phpunit-phpdcd.git
