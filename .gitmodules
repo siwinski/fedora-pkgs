@@ -319,3 +319,6 @@
 [submodule "php/php"]
 	path = php/php
 	url = ssh://pkgs.fedoraproject.org/php.git
+[submodule "php/php-Analog"]
+	path = php/php-Analog
+	url = ssh://pkgs.fedoraproject.org/php-Analog.git
