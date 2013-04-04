@@ -1177,3 +1177,6 @@
 [submodule "php/pear/php-pear-Text-Diff"]
 	path = php/pear/php-pear-Text-Diff
 	url = ssh://pkgs.fedoraproject.org/php-pear-Text-Diff.git
+[submodule "php/pear/php-pear-Text-Figlet"]
+	path = php/pear/php-pear-Text-Figlet
+	url = ssh://pkgs.fedoraproject.org/php-pear-Text-Figlet.git
