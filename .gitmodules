@@ -808,3 +808,6 @@
 [submodule "php/php-jsonlint"]
 	path = php/php-jsonlint
 	url = ssh://pkgs.fedoraproject.org/php-jsonlint.git
+[submodule "php/php-laconica"]
+	path = php/php-laconica
+	url = ssh://pkgs.fedoraproject.org/php-laconica.git
