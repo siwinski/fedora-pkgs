@@ -43,3 +43,6 @@
 [submodule "drupal6/drupal6-ctools"]
 	path = drupal6/drupal6-ctools
 	url = ssh://pkgs.fedoraproject.org/drupal6-ctools.git
+[submodule "drupal6/drupal6-custom_breadcrumbs"]
+	path = drupal6/drupal6-custom_breadcrumbs
+	url = ssh://pkgs.fedoraproject.org/drupal6-custom_breadcrumbs.git
