@@ -1096,3 +1096,6 @@
 [submodule "php/pear/php-pear-Net-URL2"]
 	path = php/pear/php-pear-Net-URL2
 	url = ssh://pkgs.fedoraproject.org/php-pear-Net-URL2.git
+[submodule "php/pear/php-pear-Net-UserAgent-Detect"]
+	path = php/pear/php-pear-Net-UserAgent-Detect
+	url = ssh://pkgs.fedoraproject.org/php-pear-Net-UserAgent-Detect.git
