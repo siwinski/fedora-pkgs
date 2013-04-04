@@ -265,3 +265,6 @@
 [submodule "drupal7/drupal7-locale_cookie"]
 	path = drupal7/drupal7-locale_cookie
 	url = ssh://pkgs.fedoraproject.org/drupal7-locale_cookie.git
+[submodule "drupal7/drupal7-login_destination"]
+	path = drupal7/drupal7-login_destination
+	url = ssh://pkgs.fedoraproject.org/drupal7-login_destination.git
