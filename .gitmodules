@@ -505,3 +505,6 @@
 [submodule "php/php-eaccelerator"]
 	path = php/php-eaccelerator
 	url = ssh://pkgs.fedoraproject.org/php-eaccelerator.git
+[submodule "php/email/php-email-address-validation"]
+	path = php/email/php-email-address-validation
+	url = ssh://pkgs.fedoraproject.org/php-email-address-validation.git
