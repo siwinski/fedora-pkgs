@@ -1045,3 +1045,6 @@
 [submodule "php/pear/php-pear-Mail-mimeDecode"]
 	path = php/pear/php-pear-Mail-mimeDecode
 	url = ssh://pkgs.fedoraproject.org/php-pear-Mail-mimeDecode.git
+[submodule "php/pear/php-pear-Math-Stats"]
+	path = php/pear/php-pear-Math-Stats
+	url = ssh://pkgs.fedoraproject.org/php-pear-Math-Stats.git
