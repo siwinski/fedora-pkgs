@@ -1360,3 +1360,6 @@
 [submodule "php/phpunit/php-phpunit-DbUnit"]
 	path = php/phpunit/php-phpunit-DbUnit
 	url = ssh://pkgs.fedoraproject.org/php-phpunit-DbUnit.git
+[submodule "php/phpunit/php-phpunit-File-Iterator"]
+	path = php/phpunit/php-phpunit-File-Iterator
+	url = ssh://pkgs.fedoraproject.org/php-phpunit-File-Iterator.git
