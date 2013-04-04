@@ -1144,3 +1144,6 @@
 [submodule "php/pear/php-pear-Services-Twitter"]
 	path = php/pear/php-pear-Services-Twitter
 	url = ssh://pkgs.fedoraproject.org/php-pear-Services-Twitter.git
+[submodule "php/pear/php-pear-Services-Weather"]
+	path = php/pear/php-pear-Services-Weather
+	url = ssh://pkgs.fedoraproject.org/php-pear-Services-Weather.git
