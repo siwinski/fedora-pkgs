@@ -1366,3 +1366,6 @@
 [submodule "php/phpunit/php-phpunit-FinderFacade"]
 	path = php/phpunit/php-phpunit-FinderFacade
 	url = ssh://pkgs.fedoraproject.org/php-phpunit-FinderFacade.git
+[submodule "php/phpunit/php-phpunit-PHP-CodeBrowser"]
+	path = php/phpunit/php-phpunit-PHP-CodeBrowser
+	url = ssh://pkgs.fedoraproject.org/php-phpunit-PHP-CodeBrowser.git
