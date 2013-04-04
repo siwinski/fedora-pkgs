@@ -304,3 +304,6 @@
 [submodule "drupal7/drupal7-views"]
 	path = drupal7/drupal7-views
 	url = ssh://pkgs.fedoraproject.org/drupal7-views.git
+[submodule "drupal7/drupal7-views_bulk_operations"]
+	path = drupal7/drupal7-views_bulk_operations
+	url = ssh://pkgs.fedoraproject.org/drupal7-views_bulk_operations.git
