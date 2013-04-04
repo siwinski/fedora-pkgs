@@ -1540,3 +1540,6 @@
 [submodule "php/theseer/php-theseer-fDOMDocument"]
 	path = php/theseer/php-theseer-fDOMDocument
 	url = ssh://pkgs.fedoraproject.org/php-theseer-fDOMDocument.git
+[submodule "php/twig/php-twig-Twig"]
+	path = php/twig/php-twig-Twig
+	url = ssh://pkgs.fedoraproject.org/php-twig-Twig.git
