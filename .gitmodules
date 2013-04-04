@@ -16,3 +16,6 @@
 [submodule "drupal6/drupal6-auto_nodetitle"]
 	path = drupal6/drupal6-auto_nodetitle
 	url = ssh://pkgs.fedoraproject.org/drupal6-auto_nodetitle.git
+[submodule "drupal6/drupal6-backup_migrate"]
+	path = drupal6/drupal6-backup_migrate
+	url = ssh://pkgs.fedoraproject.org/drupal6-backup_migrate.git
