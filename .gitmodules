@@ -925,3 +925,6 @@
 [submodule "php/pear/php-pear-DB-QueryTool"]
 	path = php/pear/php-pear-DB-QueryTool
 	url = ssh://pkgs.fedoraproject.org/php-pear-DB-QueryTool.git
+[submodule "php/pear/php-pear-Date"]
+	path = php/pear/php-pear-Date
+	url = ssh://pkgs.fedoraproject.org/php-pear-Date.git
