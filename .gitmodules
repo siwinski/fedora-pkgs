@@ -1369,3 +1369,6 @@
 [submodule "php/phpunit/php-phpunit-PHP-CodeBrowser"]
 	path = php/phpunit/php-phpunit-PHP-CodeBrowser
 	url = ssh://pkgs.fedoraproject.org/php-phpunit-PHP-CodeBrowser.git
+[submodule "php/phpunit/php-phpunit-PHP-CodeCoverage"]
+	path = php/phpunit/php-phpunit-PHP-CodeCoverage
+	url = ssh://pkgs.fedoraproject.org/php-phpunit-PHP-CodeCoverage.git
