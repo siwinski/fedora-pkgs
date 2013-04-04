@@ -1171,3 +1171,6 @@
 [submodule "php/pear/php-pear-Structures-DataGrid-Renderer-Smarty"]
 	path = php/pear/php-pear-Structures-DataGrid-Renderer-Smarty
 	url = ssh://pkgs.fedoraproject.org/php-pear-Structures-DataGrid-Renderer-Smarty.git
+[submodule "php/pear/php-pear-Text-CAPTCHA"]
+	path = php/pear/php-pear-Text-CAPTCHA
+	url = ssh://pkgs.fedoraproject.org/php-pear-Text-CAPTCHA.git
