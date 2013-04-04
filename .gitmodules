@@ -184,3 +184,6 @@
 [submodule "drupal7/drupal7"]
 	path = drupal7/drupal7
 	url = ssh://pkgs.fedoraproject.org/drupal7.git
+[submodule "drupal7/drupal7-active_tags"]
+	path = drupal7/drupal7-active_tags
+	url = ssh://pkgs.fedoraproject.org/drupal7-active_tags.git
