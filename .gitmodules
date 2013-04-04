@@ -325,3 +325,6 @@
 [submodule "php/php-Assetic"]
 	path = php/php-Assetic
 	url = ssh://pkgs.fedoraproject.org/php-Assetic.git
+[submodule "php/php-EasyRdf"]
+	path = php/php-EasyRdf
+	url = ssh://pkgs.fedoraproject.org/php-EasyRdf.git
