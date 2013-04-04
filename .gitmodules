@@ -1261,3 +1261,6 @@
 [submodule "php/pecl/php-pecl-imagick"]
 	path = php/pecl/php-pecl-imagick
 	url = ssh://pkgs.fedoraproject.org/php-pecl-imagick.git
+[submodule "php/pecl/php-pecl-json"]
+	path = php/pecl/php-pecl-json
+	url = ssh://pkgs.fedoraproject.org/php-pecl-json.git
