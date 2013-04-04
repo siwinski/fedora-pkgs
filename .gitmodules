@@ -55,3 +55,6 @@
 [submodule "drupal6/drupal6-drush"]
 	path = drupal6/drupal6-drush
 	url = ssh://pkgs.fedoraproject.org/drupal6-drush.git
+[submodule "drupal6/drupal6-eazylaunch"]
+	path = drupal6/drupal6-eazylaunch
+	url = ssh://pkgs.fedoraproject.org/drupal6-eazylaunch.git
