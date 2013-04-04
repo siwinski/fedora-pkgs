@@ -838,3 +838,6 @@
 [submodule "php/php-nusoap"]
 	path = php/php-nusoap
 	url = ssh://pkgs.fedoraproject.org/php-nusoap.git
+[submodule "php/php-oauth"]
+	path = php/php-oauth
+	url = ssh://pkgs.fedoraproject.org/php-oauth.git
