@@ -619,3 +619,6 @@
 [submodule "php/horde/php-horde-Horde-Compress"]
 	path = php/horde/php-horde-Horde-Compress
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Compress.git
+[submodule "php/horde/php-horde-Horde-Compress-Fast"]
+	path = php/horde/php-horde-Horde-Compress-Fast
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Compress-Fast.git
