@@ -1492,3 +1492,6 @@
 [submodule "php/symfony2/php-symfony2-Filesystem"]
 	path = php/symfony2/php-symfony2-Filesystem
 	url = ssh://pkgs.fedoraproject.org/php-symfony2-Filesystem.git
+[submodule "php/symfony2/php-symfony2-Finder"]
+	path = php/symfony2/php-symfony2-Finder
+	url = ssh://pkgs.fedoraproject.org/php-symfony2-Finder.git
