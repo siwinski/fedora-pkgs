@@ -256,3 +256,6 @@
 [submodule "drupal7/drupal7-job_scheduler"]
 	path = drupal7/drupal7-job_scheduler
 	url = ssh://pkgs.fedoraproject.org/drupal7-job_scheduler.git
+[submodule "drupal7/drupal7-jquery_update"]
+	path = drupal7/drupal7-jquery_update
+	url = ssh://pkgs.fedoraproject.org/drupal7-jquery_update.git
