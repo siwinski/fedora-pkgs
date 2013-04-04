@@ -769,3 +769,6 @@
 [submodule "php/horde/php-horde-Horde-Thrift"]
 	path = php/horde/php-horde-Horde-Thrift
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Thrift.git
+[submodule "php/horde/php-horde-Horde-Token"]
+	path = php/horde/php-horde-Horde-Token
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Token.git
