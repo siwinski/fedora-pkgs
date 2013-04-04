@@ -793,3 +793,6 @@
 [submodule "php/horde/php-horde-Horde-Xml-Wbxml"]
 	path = php/horde/php-horde-Horde-Xml-Wbxml
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Xml-Wbxml.git
+[submodule "php/php-htmLawed"]
+	path = php/php-htmLawed
+	url = ssh://pkgs.fedoraproject.org/php-htmLawed.git
