@@ -670,3 +670,6 @@
 [submodule "php/horde/php-horde-Horde-Image"]
 	path = php/horde/php-horde-Horde-Image
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Image.git
+[submodule "php/horde/php-horde-Horde-Imap-Client"]
+	path = php/horde/php-horde-Horde-Imap-Client
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Imap-Client.git
