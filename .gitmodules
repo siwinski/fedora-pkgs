@@ -1264,3 +1264,6 @@
 [submodule "php/pecl/php-pecl-json"]
 	path = php/pecl/php-pecl-json
 	url = ssh://pkgs.fedoraproject.org/php-pecl-json.git
+[submodule "php/pecl/php-pecl-lzf"]
+	path = php/pecl/php-pecl-lzf
+	url = ssh://pkgs.fedoraproject.org/php-pecl-lzf.git
