@@ -973,3 +973,6 @@
 [submodule "php/pear/php-pear-HTML-QuickForm-advmultiselect"]
 	path = php/pear/php-pear-HTML-QuickForm-advmultiselect
 	url = ssh://pkgs.fedoraproject.org/php-pear-HTML-QuickForm-advmultiselect.git
+[submodule "php/pear/php-pear-HTML-Table"]
+	path = php/pear/php-pear-HTML-Table
+	url = ssh://pkgs.fedoraproject.org/php-pear-HTML-Table.git
