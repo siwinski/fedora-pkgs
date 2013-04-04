@@ -751,3 +751,6 @@
 [submodule "php/horde/php-horde-Horde-SyncMl"]
 	path = php/horde/php-horde-Horde-SyncMl
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-SyncMl.git
+[submodule "php/horde/php-horde-Horde-Template"]
+	path = php/horde/php-horde-Horde-Template
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Template.git
