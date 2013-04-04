@@ -1444,3 +1444,6 @@
 [submodule "php/php-scssphp"]
 	path = php/php-scssphp
 	url = ssh://pkgs.fedoraproject.org/php-scssphp.git
+[submodule "php/php-shout"]
+	path = php/php-shout
+	url = ssh://pkgs.fedoraproject.org/php-shout.git
