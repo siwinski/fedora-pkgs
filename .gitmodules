@@ -490,3 +490,6 @@
 [submodule "php/doctrine/php-doctrine-Doctrine"]
 	path = php/doctrine/php-doctrine-Doctrine
 	url = ssh://pkgs.fedoraproject.org/php-doctrine-Doctrine.git
+[submodule "php/doctrine/php-doctrine-DoctrineCommon"]
+	path = php/doctrine/php-doctrine-DoctrineCommon
+	url = ssh://pkgs.fedoraproject.org/php-doctrine-DoctrineCommon.git
