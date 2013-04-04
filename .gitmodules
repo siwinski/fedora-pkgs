@@ -754,3 +754,6 @@
 [submodule "php/horde/php-horde-Horde-Template"]
 	path = php/horde/php-horde-Horde-Template
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Template.git
+[submodule "php/horde/php-horde-Horde-Test"]
+	path = php/horde/php-horde-Horde-Test
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Test.git
