@@ -1375,3 +1375,6 @@
 [submodule "php/phpunit/php-phpunit-PHP-Invoker"]
 	path = php/phpunit/php-phpunit-PHP-Invoker
 	url = ssh://pkgs.fedoraproject.org/php-phpunit-PHP-Invoker.git
+[submodule "php/phpunit/php-phpunit-PHP-Timer"]
+	path = php/phpunit/php-phpunit-PHP-Timer
+	url = ssh://pkgs.fedoraproject.org/php-phpunit-PHP-Timer.git
