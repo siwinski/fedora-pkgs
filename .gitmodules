@@ -871,3 +871,6 @@
 [submodule "php/pear/php-pear-Auth_HTTP"]
 	path = php/pear/php-pear-Auth_HTTP
 	url = ssh://pkgs.fedoraproject.org/php-pear-Auth_HTTP.git
+[submodule "php/pear/php-pear-Benchmark"]
+	path = php/pear/php-pear-Benchmark
+	url = ssh://pkgs.fedoraproject.org/php-pear-Benchmark.git
