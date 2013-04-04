@@ -562,3 +562,6 @@
 [submodule "php/ezc/php-ezc-PersistentObjectDatabaseSchemaTiein"]
 	path = php/ezc/php-ezc-PersistentObjectDatabaseSchemaTiein
 	url = ssh://pkgs.fedoraproject.org/php-ezc-PersistentObjectDatabaseSchemaTiein.git
+[submodule "php/ezc/php-ezc-SystemInformation"]
+	path = php/ezc/php-ezc-SystemInformation
+	url = ssh://pkgs.fedoraproject.org/php-ezc-SystemInformation.git
