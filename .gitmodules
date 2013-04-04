@@ -715,3 +715,6 @@
 [submodule "php/horde/php-horde-Horde-Prefs"]
 	path = php/horde/php-horde-Horde-Prefs
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Prefs.git
+[submodule "php/horde/php-horde-Horde-Queue"]
+	path = php/horde/php-horde-Horde-Queue
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Queue.git
