@@ -886,3 +886,6 @@
 [submodule "php/pear/php-pear-CodeGen"]
 	path = php/pear/php-pear-CodeGen
 	url = ssh://pkgs.fedoraproject.org/php-pear-CodeGen.git
+[submodule "php/pear/php-pear-CodeGen-PECL"]
+	path = php/pear/php-pear-CodeGen-PECL
+	url = ssh://pkgs.fedoraproject.org/php-pear-CodeGen-PECL.git
