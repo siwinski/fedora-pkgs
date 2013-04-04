@@ -298,3 +298,6 @@
 [submodule "drupal7/drupal7-token"]
 	path = drupal7/drupal7-token
 	url = ssh://pkgs.fedoraproject.org/drupal7-token.git
+[submodule "drupal7/drupal7-variable"]
+	path = drupal7/drupal7-variable
+	url = ssh://pkgs.fedoraproject.org/drupal7-variable.git
