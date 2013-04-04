@@ -712,3 +712,6 @@
 [submodule "php/horde/php-horde-Horde-Perms"]
 	path = php/horde/php-horde-Horde-Perms
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Perms.git
+[submodule "php/horde/php-horde-Horde-Prefs"]
+	path = php/horde/php-horde-Horde-Prefs
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Prefs.git
