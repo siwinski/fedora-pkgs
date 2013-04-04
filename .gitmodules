@@ -193,3 +193,6 @@
 [submodule "drupal7/drupal7-auto_nodetitle"]
 	path = drupal7/drupal7-auto_nodetitle
 	url = ssh://pkgs.fedoraproject.org/drupal7-auto_nodetitle.git
+[submodule "drupal7/drupal7-backup_migrate"]
+	path = drupal7/drupal7-backup_migrate
+	url = ssh://pkgs.fedoraproject.org/drupal7-backup_migrate.git
