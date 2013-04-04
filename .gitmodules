@@ -1348,3 +1348,6 @@
 [submodule "php/php-php-gettext"]
 	path = php/php-php-gettext
 	url = ssh://pkgs.fedoraproject.org/php-php-gettext.git
+[submodule "php/php-phpSmug"]
+	path = php/php-phpSmug
+	url = ssh://pkgs.fedoraproject.org/php-phpSmug.git
