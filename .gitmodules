@@ -253,3 +253,6 @@
 [submodule "drupal7/drupal7-i18n"]
 	path = drupal7/drupal7-i18n
 	url = ssh://pkgs.fedoraproject.org/drupal7-i18n.git
+[submodule "drupal7/drupal7-job_scheduler"]
+	path = drupal7/drupal7-job_scheduler
+	url = ssh://pkgs.fedoraproject.org/drupal7-job_scheduler.git
