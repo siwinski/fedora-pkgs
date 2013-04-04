@@ -835,3 +835,6 @@
 [submodule "php/php-mmcache"]
 	path = php/php-mmcache
 	url = ssh://pkgs.fedoraproject.org/php-mmcache.git
+[submodule "php/php-nusoap"]
+	path = php/php-nusoap
+	url = ssh://pkgs.fedoraproject.org/php-nusoap.git
