@@ -1201,3 +1201,6 @@
 [submodule "php/pear/php-pear-XML-RPC"]
 	path = php/pear/php-pear-XML-RPC
 	url = ssh://pkgs.fedoraproject.org/php-pear-XML-RPC.git
+[submodule "php/pear/php-pear-XML-RPC2"]
+	path = php/pear/php-pear-XML-RPC2
+	url = ssh://pkgs.fedoraproject.org/php-pear-XML-RPC2.git
