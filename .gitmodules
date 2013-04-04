@@ -1021,3 +1021,6 @@
 [submodule "php/pear/php-pear-Log"]
 	path = php/pear/php-pear-Log
 	url = ssh://pkgs.fedoraproject.org/php-pear-Log.git
+[submodule "php/pear/php-pear-MDB2"]
+	path = php/pear/php-pear-MDB2
+	url = ssh://pkgs.fedoraproject.org/php-pear-MDB2.git
