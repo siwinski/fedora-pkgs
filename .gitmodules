@@ -1027,3 +1027,6 @@
 [submodule "php/pear/php-pear-MDB2-Driver-mysql"]
 	path = php/pear/php-pear-MDB2-Driver-mysql
 	url = ssh://pkgs.fedoraproject.org/php-pear-MDB2-Driver-mysql.git
+[submodule "php/pear/php-pear-MDB2-Driver-mysqli"]
+	path = php/pear/php-pear-MDB2-Driver-mysqli
+	url = ssh://pkgs.fedoraproject.org/php-pear-MDB2-Driver-mysqli.git
