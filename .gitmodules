@@ -544,3 +544,6 @@
 [submodule "php/ezc/php-ezc-EventLogDatabaseTiein"]
 	path = php/ezc/php-ezc-EventLogDatabaseTiein
 	url = ssh://pkgs.fedoraproject.org/php-ezc-EventLogDatabaseTiein.git
+[submodule "php/ezc/php-ezc-Feed"]
+	path = php/ezc/php-ezc-Feed
+	url = ssh://pkgs.fedoraproject.org/php-ezc-Feed.git
