@@ -1285,3 +1285,6 @@
 [submodule "php/pecl/php-pecl-mysqlnd-ms"]
 	path = php/pecl/php-pecl-mysqlnd-ms
 	url = ssh://pkgs.fedoraproject.org/php-pecl-mysqlnd-ms.git
+[submodule "php/pecl/php-pecl-mysqlnd-qc"]
+	path = php/pecl/php-pecl-mysqlnd-qc
+	url = ssh://pkgs.fedoraproject.org/php-pecl-mysqlnd-qc.git
