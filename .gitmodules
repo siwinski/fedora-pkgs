@@ -355,3 +355,6 @@
 [submodule "php/php-PHPMailer"]
 	path = php/php-PHPMailer
 	url = ssh://pkgs.fedoraproject.org/php-PHPMailer.git
+[submodule "php/php-PHPParser"]
+	path = php/php-PHPParser
+	url = ssh://pkgs.fedoraproject.org/php-PHPParser.git
