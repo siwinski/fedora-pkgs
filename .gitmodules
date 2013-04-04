@@ -814,3 +814,6 @@
 [submodule "php/layers/php-layers-menu"]
 	path = php/layers/php-layers-menu
 	url = ssh://pkgs.fedoraproject.org/php-layers-menu.git
+[submodule "php/php-lessphp"]
+	path = php/php-lessphp
+	url = ssh://pkgs.fedoraproject.org/php-lessphp.git
