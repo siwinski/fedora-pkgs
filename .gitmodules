@@ -1048,3 +1048,6 @@
 [submodule "php/pear/php-pear-Math-Stats"]
 	path = php/pear/php-pear-Math-Stats
 	url = ssh://pkgs.fedoraproject.org/php-pear-Math-Stats.git
+[submodule "php/pear/php-pear-Net-Curl"]
+	path = php/pear/php-pear-Net-Curl
+	url = ssh://pkgs.fedoraproject.org/php-pear-Net-Curl.git
