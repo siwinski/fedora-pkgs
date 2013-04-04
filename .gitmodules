@@ -250,3 +250,6 @@
 [submodule "drupal7/drupal7-footnotes"]
 	path = drupal7/drupal7-footnotes
 	url = ssh://pkgs.fedoraproject.org/drupal7-footnotes.git
+[submodule "drupal7/drupal7-i18n"]
+	path = drupal7/drupal7-i18n
+	url = ssh://pkgs.fedoraproject.org/drupal7-i18n.git
