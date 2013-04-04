@@ -820,3 +820,6 @@
 [submodule "php/php-libvirt"]
 	path = php/php-libvirt
 	url = ssh://pkgs.fedoraproject.org/php-libvirt.git
+[submodule "php/php-magickwand"]
+	path = php/php-magickwand
+	url = ssh://pkgs.fedoraproject.org/php-magickwand.git
