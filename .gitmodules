@@ -1567,3 +1567,6 @@
 [submodule "php53/php53-mapi"]
 	path = php53/php53-mapi
 	url = ssh://pkgs.fedoraproject.org/php53-mapi.git
+[submodule "php53/php/php53-php-gettext"]
+	path = php53/php/php53-php-gettext
+	url = ssh://pkgs.fedoraproject.org/php53-php-gettext.git
