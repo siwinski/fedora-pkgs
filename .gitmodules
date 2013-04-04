@@ -361,3 +361,6 @@
 [submodule "php/php-PhpCollection"]
 	path = php/php-PhpCollection
 	url = ssh://pkgs.fedoraproject.org/php-PhpCollection.git
+[submodule "php/php-PhpOption"]
+	path = php/php-PhpOption
+	url = ssh://pkgs.fedoraproject.org/php-PhpOption.git
