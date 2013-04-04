@@ -1339,3 +1339,6 @@
 [submodule "php/pecl/php-pecl-xhprof"]
 	path = php/pecl/php-pecl-xhprof
 	url = ssh://pkgs.fedoraproject.org/php-pecl-xhprof.git
+[submodule "php/pecl/php-pecl-yaml"]
+	path = php/pecl/php-pecl-yaml
+	url = ssh://pkgs.fedoraproject.org/php-pecl-yaml.git
