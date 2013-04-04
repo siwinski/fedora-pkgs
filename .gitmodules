@@ -805,3 +805,6 @@
 [submodule "php/php-json"]
 	path = php/php-json
 	url = ssh://pkgs.fedoraproject.org/php-json.git
+[submodule "php/php-jsonlint"]
+	path = php/php-jsonlint
+	url = ssh://pkgs.fedoraproject.org/php-jsonlint.git
