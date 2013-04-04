@@ -1273,3 +1273,6 @@
 [submodule "php/pecl/php-pecl-memcache"]
 	path = php/pecl/php-pecl-memcache
 	url = ssh://pkgs.fedoraproject.org/php-pecl-memcache.git
+[submodule "php/pecl/php-pecl-memcached"]
+	path = php/pecl/php-pecl-memcached
+	url = ssh://pkgs.fedoraproject.org/php-pecl-memcached.git
