@@ -127,3 +127,6 @@
 [submodule "drupal6/drupal6-markdown"]
 	path = drupal6/drupal6-markdown
 	url = ssh://pkgs.fedoraproject.org/drupal6-markdown.git
+[submodule "drupal6/drupal6-media_vimeo"]
+	path = drupal6/drupal6-media_vimeo
+	url = ssh://pkgs.fedoraproject.org/drupal6-media_vimeo.git
