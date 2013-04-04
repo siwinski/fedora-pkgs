@@ -13,3 +13,6 @@
 [submodule "drupal6/drupal6-authfas"]
 	path = drupal6/drupal6-authfas
 	url = ssh://pkgs.fedoraproject.org/drupal6-authfas.git
+[submodule "drupal6/drupal6-auto_nodetitle"]
+	path = drupal6/drupal6-auto_nodetitle
+	url = ssh://pkgs.fedoraproject.org/drupal6-auto_nodetitle.git
