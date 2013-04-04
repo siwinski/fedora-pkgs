@@ -373,3 +373,6 @@
 [submodule "php/php-Raven"]
 	path = php/php-Raven
 	url = ssh://pkgs.fedoraproject.org/php-Raven.git
+[submodule "php/php-Slim"]
+	path = php/php-Slim
+	url = ssh://pkgs.fedoraproject.org/php-Slim.git
