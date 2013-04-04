@@ -1006,3 +1006,6 @@
 [submodule "php/pear/php-pear-Image-Canvas"]
 	path = php/pear/php-pear-Image-Canvas
 	url = ssh://pkgs.fedoraproject.org/php-pear-Image-Canvas.git
+[submodule "php/pear/php-pear-Image-Color"]
+	path = php/pear/php-pear-Image-Color
+	url = ssh://pkgs.fedoraproject.org/php-pear-Image-Color.git
