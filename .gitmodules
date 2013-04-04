@@ -343,3 +343,6 @@
 [submodule "php/php-Kohana"]
 	path = php/php-Kohana
 	url = ssh://pkgs.fedoraproject.org/php-Kohana.git
+[submodule "php/php-LightweightPicasaAPI"]
+	path = php/php-LightweightPicasaAPI
+	url = ssh://pkgs.fedoraproject.org/php-LightweightPicasaAPI.git
