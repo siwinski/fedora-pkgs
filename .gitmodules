@@ -1576,3 +1576,6 @@
 [submodule "php/phpFlickr"]
 	path = php/phpFlickr
 	url = ssh://pkgs.fedoraproject.org/phpFlickr.git
+[submodule "php/phpMemcachedAdmin"]
+	path = php/phpMemcachedAdmin
+	url = ssh://pkgs.fedoraproject.org/phpMemcachedAdmin.git
