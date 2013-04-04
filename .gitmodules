@@ -1564,3 +1564,6 @@
 [submodule "php53/php53-extras"]
 	path = php53/php53-extras
 	url = ssh://pkgs.fedoraproject.org/php53-extras.git
+[submodule "php53/php53-mapi"]
+	path = php53/php53-mapi
+	url = ssh://pkgs.fedoraproject.org/php53-mapi.git
