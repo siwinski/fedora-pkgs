@@ -1402,3 +1402,6 @@
 [submodule "php/phpunit/php-phpunit-bytekit"]
 	path = php/phpunit/php-phpunit-bytekit
 	url = ssh://pkgs.fedoraproject.org/php-phpunit-bytekit.git
+[submodule "php/phpunit/php-phpunit-phpcpd"]
+	path = php/phpunit/php-phpunit-phpcpd
+	url = ssh://pkgs.fedoraproject.org/php-phpunit-phpcpd.git
