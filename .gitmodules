@@ -811,3 +811,6 @@
 [submodule "php/php-laconica"]
 	path = php/php-laconica
 	url = ssh://pkgs.fedoraproject.org/php-laconica.git
+[submodule "php/layers/php-layers-menu"]
+	path = php/layers/php-layers-menu
+	url = ssh://pkgs.fedoraproject.org/php-layers-menu.git
