@@ -322,3 +322,6 @@
 [submodule "php/php-Analog"]
 	path = php/php-Analog
 	url = ssh://pkgs.fedoraproject.org/php-Analog.git
+[submodule "php/php-Assetic"]
+	path = php/php-Assetic
+	url = ssh://pkgs.fedoraproject.org/php-Assetic.git
