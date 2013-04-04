@@ -1270,3 +1270,6 @@
 [submodule "php/pecl/php-pecl-mailparse"]
 	path = php/pecl/php-pecl-mailparse
 	url = ssh://pkgs.fedoraproject.org/php-pecl-mailparse.git
+[submodule "php/pecl/php-pecl-memcache"]
+	path = php/pecl/php-pecl-memcache
+	url = ssh://pkgs.fedoraproject.org/php-pecl-memcache.git
