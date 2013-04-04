@@ -1018,3 +1018,6 @@
 [submodule "php/pear/php-pear-Image-Text"]
 	path = php/pear/php-pear-Image-Text
 	url = ssh://pkgs.fedoraproject.org/php-pear-Image-Text.git
+[submodule "php/pear/php-pear-Log"]
+	path = php/pear/php-pear-Log
+	url = ssh://pkgs.fedoraproject.org/php-pear-Log.git
