@@ -1180,3 +1180,6 @@
 [submodule "php/pear/php-pear-Text-Figlet"]
 	path = php/pear/php-pear-Text-Figlet
 	url = ssh://pkgs.fedoraproject.org/php-pear-Text-Figlet.git
+[submodule "php/pear/php-pear-Text-Password"]
+	path = php/pear/php-pear-Text-Password
+	url = ssh://pkgs.fedoraproject.org/php-pear-Text-Password.git
