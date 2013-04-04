@@ -1345,3 +1345,6 @@
 [submodule "php/pecl/php-pecl-zip"]
 	path = php/pecl/php-pecl-zip
 	url = ssh://pkgs.fedoraproject.org/php-pecl-zip.git
+[submodule "php/php-php-gettext"]
+	path = php/php-php-gettext
+	url = ssh://pkgs.fedoraproject.org/php-php-gettext.git
