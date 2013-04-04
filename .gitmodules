@@ -154,3 +154,6 @@
 [submodule "drupal6/drupal6-strongarm"]
 	path = drupal6/drupal6-strongarm
 	url = ssh://pkgs.fedoraproject.org/drupal6-strongarm.git
+[submodule "drupal6/drupal6-theme-ninesixty"]
+	path = drupal6/drupal6-theme-ninesixty
+	url = ssh://pkgs.fedoraproject.org/drupal6-theme-ninesixty.git
