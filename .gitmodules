@@ -247,3 +247,6 @@
 [submodule "drupal7/drupal7-flexifilter"]
 	path = drupal7/drupal7-flexifilter
 	url = ssh://pkgs.fedoraproject.org/drupal7-flexifilter.git
+[submodule "drupal7/drupal7-footnotes"]
+	path = drupal7/drupal7-footnotes
+	url = ssh://pkgs.fedoraproject.org/drupal7-footnotes.git
