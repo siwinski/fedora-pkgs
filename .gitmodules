@@ -61,3 +61,6 @@
 [submodule "drupal6/drupal6-emfield"]
 	path = drupal6/drupal6-emfield
 	url = ssh://pkgs.fedoraproject.org/drupal6-emfield.git
+[submodule "drupal6/drupal6-faq"]
+	path = drupal6/drupal6-faq
+	url = ssh://pkgs.fedoraproject.org/drupal6-faq.git
