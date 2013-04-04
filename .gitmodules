@@ -370,3 +370,6 @@
 [submodule "php/php-PsrLog"]
 	path = php/php-PsrLog
 	url = ssh://pkgs.fedoraproject.org/php-PsrLog.git
+[submodule "php/php-Raven"]
+	path = php/php-Raven
+	url = ssh://pkgs.fedoraproject.org/php-Raven.git
