@@ -622,3 +622,6 @@
 [submodule "php/horde/php-horde-Horde-Compress-Fast"]
 	path = php/horde/php-horde-Horde-Compress-Fast
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Compress-Fast.git
+[submodule "php/horde/php-horde-Horde-Constraint"]
+	path = php/horde/php-horde-Horde-Constraint
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Constraint.git
