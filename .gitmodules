@@ -1135,3 +1135,6 @@
 [submodule "php/pear/php-pear-Phlickr"]
 	path = php/pear/php-pear-Phlickr
 	url = ssh://pkgs.fedoraproject.org/php-pear-Phlickr.git
+[submodule "php/pear/php-pear-PhpDocumentor"]
+	path = php/pear/php-pear-PhpDocumentor
+	url = ssh://pkgs.fedoraproject.org/php-pear-PhpDocumentor.git
