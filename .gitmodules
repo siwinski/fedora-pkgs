@@ -100,3 +100,6 @@
 [submodule "drupal6/drupal6-image_resize_filter"]
 	path = drupal6/drupal6-image_resize_filter
 	url = ssh://pkgs.fedoraproject.org/drupal6-image_resize_filter.git
+[submodule "drupal6/drupal6-imageapi"]
+	path = drupal6/drupal6-imageapi
+	url = ssh://pkgs.fedoraproject.org/drupal6-imageapi.git
