@@ -1573,3 +1573,6 @@
 [submodule "php53/php53-simplepie"]
 	path = php53/php53-simplepie
 	url = ssh://pkgs.fedoraproject.org/php53-simplepie.git
+[submodule "php/phpFlickr"]
+	path = php/phpFlickr
+	url = ssh://pkgs.fedoraproject.org/phpFlickr.git
