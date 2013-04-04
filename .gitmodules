@@ -598,3 +598,6 @@
 [submodule "php/horde/php-horde-Horde-Alarm"]
 	path = php/horde/php-horde-Horde-Alarm
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Alarm.git
+[submodule "php/horde/php-horde-Horde-Argv"]
+	path = php/horde/php-horde-Horde-Argv
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Argv.git
