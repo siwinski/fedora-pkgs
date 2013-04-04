@@ -310,3 +310,6 @@
 [submodule "drupal7/drupal7-votingapi"]
 	path = drupal7/drupal7-votingapi
 	url = ssh://pkgs.fedoraproject.org/drupal7-votingapi.git
+[submodule "drupal7/drupal7-workbench"]
+	path = drupal7/drupal7-workbench
+	url = ssh://pkgs.fedoraproject.org/drupal7-workbench.git
