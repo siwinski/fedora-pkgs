@@ -910,3 +910,6 @@
 [submodule "php/pear/php-pear-Crypt-Blowfish"]
 	path = php/pear/php-pear-Crypt-Blowfish
 	url = ssh://pkgs.fedoraproject.org/php-pear-Crypt-Blowfish.git
+[submodule "php/pear/php-pear-Crypt-CHAP"]
+	path = php/pear/php-pear-Crypt-CHAP
+	url = ssh://pkgs.fedoraproject.org/php-pear-Crypt-CHAP.git
