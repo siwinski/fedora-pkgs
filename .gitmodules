@@ -1102,3 +1102,6 @@
 [submodule "php/pear/php-pear-Numbers-Roman"]
 	path = php/pear/php-pear-Numbers-Roman
 	url = ssh://pkgs.fedoraproject.org/php-pear-Numbers-Roman.git
+[submodule "php/pear/php-pear-Numbers-Words"]
+	path = php/pear/php-pear-Numbers-Words
+	url = ssh://pkgs.fedoraproject.org/php-pear-Numbers-Words.git
