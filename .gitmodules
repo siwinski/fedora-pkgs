@@ -640,3 +640,6 @@
 [submodule "php/horde/php-horde-Horde-Date"]
 	path = php/horde/php-horde-Horde-Date
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Date.git
+[submodule "php/horde/php-horde-Horde-Date-Parser"]
+	path = php/horde/php-horde-Horde-Date-Parser
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Date-Parser.git
