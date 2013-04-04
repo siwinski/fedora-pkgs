@@ -1468,3 +1468,6 @@
 [submodule "php/symfony2/php-symfony2-BrowserKit"]
 	path = php/symfony2/php-symfony2-BrowserKit
 	url = ssh://pkgs.fedoraproject.org/php-symfony2-BrowserKit.git
+[submodule "php/symfony2/php-symfony2-ClassLoader"]
+	path = php/symfony2/php-symfony2-ClassLoader
+	url = ssh://pkgs.fedoraproject.org/php-symfony2-ClassLoader.git
