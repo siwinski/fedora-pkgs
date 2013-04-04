@@ -985,3 +985,6 @@
 [submodule "php/pear/php-pear-HTML_Template_PHPLIB"]
 	path = php/pear/php-pear-HTML_Template_PHPLIB
 	url = ssh://pkgs.fedoraproject.org/php-pear-HTML_Template_PHPLIB.git
+[submodule "php/pear/php-pear-HTTP"]
+	path = php/pear/php-pear-HTTP
+	url = ssh://pkgs.fedoraproject.org/php-pear-HTTP.git
