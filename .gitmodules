@@ -1504,3 +1504,6 @@
 [submodule "php/symfony2/php-symfony2-HttpKernel"]
 	path = php/symfony2/php-symfony2-HttpKernel
 	url = ssh://pkgs.fedoraproject.org/php-symfony2-HttpKernel.git
+[submodule "php/symfony2/php-symfony2-Locale"]
+	path = php/symfony2/php-symfony2-Locale
+	url = ssh://pkgs.fedoraproject.org/php-symfony2-Locale.git
