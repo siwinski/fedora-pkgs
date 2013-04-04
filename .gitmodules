@@ -1462,3 +1462,6 @@
 [submodule "php/symfony/php-symfony-YAML"]
 	path = php/symfony/php-symfony-YAML
 	url = ssh://pkgs.fedoraproject.org/php-symfony-YAML.git
+[submodule "php/symfony/php-symfony-symfony"]
+	path = php/symfony/php-symfony-symfony
+	url = ssh://pkgs.fedoraproject.org/php-symfony-symfony.git
