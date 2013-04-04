@@ -526,3 +526,6 @@
 [submodule "php/ezc/php-ezc-Cache"]
 	path = php/ezc/php-ezc-Cache
 	url = ssh://pkgs.fedoraproject.org/php-ezc-Cache.git
+[submodule "php/ezc/php-ezc-Configuration"]
+	path = php/ezc/php-ezc-Configuration
+	url = ssh://pkgs.fedoraproject.org/php-ezc-Configuration.git
