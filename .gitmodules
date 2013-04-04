@@ -1537,3 +1537,6 @@
 [submodule "php/symfony2/php-symfony2-Yaml"]
 	path = php/symfony2/php-symfony2-Yaml
 	url = ssh://pkgs.fedoraproject.org/php-symfony2-Yaml.git
+[submodule "php/theseer/php-theseer-fDOMDocument"]
+	path = php/theseer/php-theseer-fDOMDocument
+	url = ssh://pkgs.fedoraproject.org/php-theseer-fDOMDocument.git
