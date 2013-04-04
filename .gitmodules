@@ -898,3 +898,6 @@
 [submodule "php/pear/php-pear-Console-CommandLine"]
 	path = php/pear/php-pear-Console-CommandLine
 	url = ssh://pkgs.fedoraproject.org/php-pear-Console-CommandLine.git
+[submodule "php/pear/php-pear-Console-Getargs"]
+	path = php/pear/php-pear-Console-Getargs
+	url = ssh://pkgs.fedoraproject.org/php-pear-Console-Getargs.git
