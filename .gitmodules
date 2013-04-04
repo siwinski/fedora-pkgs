@@ -1099,3 +1099,6 @@
 [submodule "php/pear/php-pear-Net-UserAgent-Detect"]
 	path = php/pear/php-pear-Net-UserAgent-Detect
 	url = ssh://pkgs.fedoraproject.org/php-pear-Net-UserAgent-Detect.git
+[submodule "php/pear/php-pear-Numbers-Roman"]
+	path = php/pear/php-pear-Numbers-Roman
+	url = ssh://pkgs.fedoraproject.org/php-pear-Numbers-Roman.git
