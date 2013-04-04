@@ -271,3 +271,6 @@
 [submodule "drupal7/drupal7-markdown"]
 	path = drupal7/drupal7-markdown
 	url = ssh://pkgs.fedoraproject.org/drupal7-markdown.git
+[submodule "drupal7/drupal7-mediawiki_api"]
+	path = drupal7/drupal7-mediawiki_api
+	url = ssh://pkgs.fedoraproject.org/drupal7-mediawiki_api.git
