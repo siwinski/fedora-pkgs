@@ -1168,3 +1168,6 @@
 [submodule "php/pear/php-pear-Structures-DataGrid-Renderer-Pager"]
 	path = php/pear/php-pear-Structures-DataGrid-Renderer-Pager
 	url = ssh://pkgs.fedoraproject.org/php-pear-Structures-DataGrid-Renderer-Pager.git
+[submodule "php/pear/php-pear-Structures-DataGrid-Renderer-Smarty"]
+	path = php/pear/php-pear-Structures-DataGrid-Renderer-Smarty
+	url = ssh://pkgs.fedoraproject.org/php-pear-Structures-DataGrid-Renderer-Smarty.git
