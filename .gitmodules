@@ -460,3 +460,6 @@
 [submodule "php/channel/php-channel-pirum"]
 	path = php/channel/php-channel-pirum
 	url = ssh://pkgs.fedoraproject.org/php-channel-pirum.git
+[submodule "php/channel/php-channel-sabredav"]
+	path = php/channel/php-channel-sabredav
+	url = ssh://pkgs.fedoraproject.org/php-channel-sabredav.git
