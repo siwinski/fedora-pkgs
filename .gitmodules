@@ -1336,3 +1336,6 @@
 [submodule "php/pecl/php-pecl-xdebug"]
 	path = php/pecl/php-pecl-xdebug
 	url = ssh://pkgs.fedoraproject.org/php-pecl-xdebug.git
+[submodule "php/pecl/php-pecl-xhprof"]
+	path = php/pecl/php-pecl-xhprof
+	url = ssh://pkgs.fedoraproject.org/php-pecl-xhprof.git
