@@ -73,3 +73,6 @@
 [submodule "drupal6/drupal6-feeds"]
 	path = drupal6/drupal6-feeds
 	url = ssh://pkgs.fedoraproject.org/drupal6-feeds.git
+[submodule "drupal6/drupal6-filefield"]
+	path = drupal6/drupal6-filefield
+	url = ssh://pkgs.fedoraproject.org/drupal6-filefield.git
