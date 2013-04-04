@@ -1219,3 +1219,6 @@
 [submodule "php/pear/php-pear-creole"]
 	path = php/pear/php-pear-creole
 	url = ssh://pkgs.fedoraproject.org/php-pear-creole.git
+[submodule "php/pear/php-pear-pake"]
+	path = php/pear/php-pear-pake
+	url = ssh://pkgs.fedoraproject.org/php-pear-pake.git
