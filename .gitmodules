@@ -1150,3 +1150,6 @@
 [submodule "php/pear/php-pear-Spreadsheet-Excel-Writer"]
 	path = php/pear/php-pear-Spreadsheet-Excel-Writer
 	url = ssh://pkgs.fedoraproject.org/php-pear-Spreadsheet-Excel-Writer.git
+[submodule "php/pear/php-pear-Structures-DataGrid"]
+	path = php/pear/php-pear-Structures-DataGrid
+	url = ssh://pkgs.fedoraproject.org/php-pear-Structures-DataGrid.git
