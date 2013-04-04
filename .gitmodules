@@ -565,3 +565,6 @@
 [submodule "php/ezc/php-ezc-SystemInformation"]
 	path = php/ezc/php-ezc-SystemInformation
 	url = ssh://pkgs.fedoraproject.org/php-ezc-SystemInformation.git
+[submodule "php/ezc/php-ezc-Template"]
+	path = php/ezc/php-ezc-Template
+	url = ssh://pkgs.fedoraproject.org/php-ezc-Template.git
