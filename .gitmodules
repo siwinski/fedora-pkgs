@@ -1108,3 +1108,6 @@
 [submodule "php/pear/php-pear-OLE"]
 	path = php/pear/php-pear-OLE
 	url = ssh://pkgs.fedoraproject.org/php-pear-OLE.git
+[submodule "php/pear/php-pear-PEAR-Command-Packaging"]
+	path = php/pear/php-pear-PEAR-Command-Packaging
+	url = ssh://pkgs.fedoraproject.org/php-pear-PEAR-Command-Packaging.git
