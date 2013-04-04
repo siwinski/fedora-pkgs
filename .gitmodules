@@ -1384,3 +1384,6 @@
 [submodule "php/phpunit/php-phpunit-PHPUnit"]
 	path = php/phpunit/php-phpunit-PHPUnit
 	url = ssh://pkgs.fedoraproject.org/php-phpunit-PHPUnit.git
+[submodule "php/phpunit/php-phpunit-PHPUnit-MockObject"]
+	path = php/phpunit/php-phpunit-PHPUnit-MockObject
+	url = ssh://pkgs.fedoraproject.org/php-phpunit-PHPUnit-MockObject.git
