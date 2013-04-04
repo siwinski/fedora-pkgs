@@ -1240,3 +1240,6 @@
 [submodule "php/pecl/php-pecl-apc"]
 	path = php/pecl/php-pecl-apc
 	url = ssh://pkgs.fedoraproject.org/php-pecl-apc.git
+[submodule "php/pecl/php-pecl-cairo"]
+	path = php/pecl/php-pecl-cairo
+	url = ssh://pkgs.fedoraproject.org/php-pecl-cairo.git
