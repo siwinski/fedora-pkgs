@@ -49,3 +49,6 @@
 [submodule "drupal6/drupal6-date"]
 	path = drupal6/drupal6-date
 	url = ssh://pkgs.fedoraproject.org/drupal6-date.git
+[submodule "drupal6/drupal6-diff"]
+	path = drupal6/drupal6-diff
+	url = ssh://pkgs.fedoraproject.org/drupal6-diff.git
