@@ -175,3 +175,6 @@
 [submodule "drupal6/drupal6-votingapi"]
 	path = drupal6/drupal6-votingapi
 	url = ssh://pkgs.fedoraproject.org/drupal6-votingapi.git
+[submodule "drupal6/drupal6-workspace"]
+	path = drupal6/drupal6-workspace
+	url = ssh://pkgs.fedoraproject.org/drupal6-workspace.git
