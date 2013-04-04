@@ -568,3 +568,6 @@
 [submodule "php/ezc/php-ezc-Template"]
 	path = php/ezc/php-ezc-Template
 	url = ssh://pkgs.fedoraproject.org/php-ezc-Template.git
+[submodule "php/ezc/php-ezc-Webdav"]
+	path = php/ezc/php-ezc-Webdav
+	url = ssh://pkgs.fedoraproject.org/php-ezc-Webdav.git
