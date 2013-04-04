@@ -238,3 +238,6 @@
 [submodule "drupal7/drupal7-feeds"]
 	path = drupal7/drupal7-feeds
 	url = ssh://pkgs.fedoraproject.org/drupal7-feeds.git
+[submodule "drupal7/drupal7-field_permissions"]
+	path = drupal7/drupal7-field_permissions
+	url = ssh://pkgs.fedoraproject.org/drupal7-field_permissions.git
