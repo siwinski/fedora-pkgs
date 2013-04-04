@@ -10,3 +10,6 @@
 [submodule "drupal6/drupal6-advanced-help"]
 	path = drupal6/drupal6-advanced-help
 	url = ssh://pkgs.fedoraproject.org/drupal6-advanced-help.git
+[submodule "drupal6/drupal6-authfas"]
+	path = drupal6/drupal6-authfas
+	url = ssh://pkgs.fedoraproject.org/drupal6-authfas.git
