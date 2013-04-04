@@ -517,3 +517,6 @@
 [submodule "php/ezc/php-ezc-Authentication"]
 	path = php/ezc/php-ezc-Authentication
 	url = ssh://pkgs.fedoraproject.org/php-ezc-Authentication.git
+[submodule "php/ezc/php-ezc-AuthenticationDatabaseTiein"]
+	path = php/ezc/php-ezc-AuthenticationDatabaseTiein
+	url = ssh://pkgs.fedoraproject.org/php-ezc-AuthenticationDatabaseTiein.git
