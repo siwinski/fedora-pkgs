@@ -1420,3 +1420,6 @@
 [submodule "php/php-redis"]
 	path = php/php-redis
 	url = ssh://pkgs.fedoraproject.org/php-redis.git
+[submodule "php/sabredav/php-sabredav-Sabre"]
+	path = php/sabredav/php-sabredav-Sabre
+	url = ssh://pkgs.fedoraproject.org/php-sabredav-Sabre.git
