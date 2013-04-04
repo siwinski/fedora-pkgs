@@ -940,3 +940,6 @@
 [submodule "php/pear/php-pear-File"]
 	path = php/pear/php-pear-File
 	url = ssh://pkgs.fedoraproject.org/php-pear-File.git
+[submodule "php/pear/php-pear-File-Bittorrent2"]
+	path = php/pear/php-pear-File-Bittorrent2
+	url = ssh://pkgs.fedoraproject.org/php-pear-File-Bittorrent2.git
