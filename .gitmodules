@@ -553,3 +553,6 @@
 [submodule "php/ezc/php-ezc-Graph"]
 	path = php/ezc/php-ezc-Graph
 	url = ssh://pkgs.fedoraproject.org/php-ezc-Graph.git
+[submodule "php/ezc/php-ezc-Mail"]
+	path = php/ezc/php-ezc-Mail
+	url = ssh://pkgs.fedoraproject.org/php-ezc-Mail.git
