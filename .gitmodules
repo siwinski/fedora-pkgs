@@ -454,3 +454,6 @@
 [submodule "php/channel/php-channel-phpqatools"]
 	path = php/channel/php-channel-phpqatools
 	url = ssh://pkgs.fedoraproject.org/php-channel-phpqatools.git
+[submodule "php/channel/php-channel-phpunit"]
+	path = php/channel/php-channel-phpunit
+	url = ssh://pkgs.fedoraproject.org/php-channel-phpunit.git
