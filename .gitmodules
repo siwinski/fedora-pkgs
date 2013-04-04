@@ -1459,3 +1459,6 @@
 [submodule "php/swift/php-swift-Swift"]
 	path = php/swift/php-swift-Swift
 	url = ssh://pkgs.fedoraproject.org/php-swift-Swift.git
+[submodule "php/symfony/php-symfony-YAML"]
+	path = php/symfony/php-symfony-YAML
+	url = ssh://pkgs.fedoraproject.org/php-symfony-YAML.git
