@@ -52,3 +52,6 @@
 [submodule "drupal6/drupal6-diff"]
 	path = drupal6/drupal6-diff
 	url = ssh://pkgs.fedoraproject.org/drupal6-diff.git
+[submodule "drupal6/drupal6-drush"]
+	path = drupal6/drupal6-drush
+	url = ssh://pkgs.fedoraproject.org/drupal6-drush.git
