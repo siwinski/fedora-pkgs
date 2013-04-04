@@ -1072,3 +1072,6 @@
 [submodule "php/pear/php-pear-Net-POP3"]
 	path = php/pear/php-pear-Net-POP3
 	url = ssh://pkgs.fedoraproject.org/php-pear-Net-POP3.git
+[submodule "php/pear/php-pear-Net-Ping"]
+	path = php/pear/php-pear-Net-Ping
+	url = ssh://pkgs.fedoraproject.org/php-pear-Net-Ping.git
