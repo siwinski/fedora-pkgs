@@ -1465,3 +1465,6 @@
 [submodule "php/symfony/php-symfony-symfony"]
 	path = php/symfony/php-symfony-symfony
 	url = ssh://pkgs.fedoraproject.org/php-symfony-symfony.git
+[submodule "php/symfony2/php-symfony2-BrowserKit"]
+	path = php/symfony2/php-symfony2-BrowserKit
+	url = ssh://pkgs.fedoraproject.org/php-symfony2-BrowserKit.git
