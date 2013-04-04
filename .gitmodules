@@ -1495,3 +1495,6 @@
 [submodule "php/symfony2/php-symfony2-Finder"]
 	path = php/symfony2/php-symfony2-Finder
 	url = ssh://pkgs.fedoraproject.org/php-symfony2-Finder.git
+[submodule "php/symfony2/php-symfony2-Form"]
+	path = php/symfony2/php-symfony2-Form
+	url = ssh://pkgs.fedoraproject.org/php-symfony2-Form.git
