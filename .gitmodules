@@ -259,3 +259,6 @@
 [submodule "drupal7/drupal7-jquery_update"]
 	path = drupal7/drupal7-jquery_update
 	url = ssh://pkgs.fedoraproject.org/drupal7-jquery_update.git
+[submodule "drupal7/drupal7-libraries"]
+	path = drupal7/drupal7-libraries
+	url = ssh://pkgs.fedoraproject.org/drupal7-libraries.git
