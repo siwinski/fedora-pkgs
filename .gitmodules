@@ -1411,3 +1411,6 @@
 [submodule "php/phpunit/php-phpunit-phploc"]
 	path = php/phpunit/php-phpunit-phploc
 	url = ssh://pkgs.fedoraproject.org/php-phpunit-phploc.git
+[submodule "php/pirum/php-pirum-Pirum"]
+	path = php/pirum/php-pirum-Pirum
+	url = ssh://pkgs.fedoraproject.org/php-pirum-Pirum.git
