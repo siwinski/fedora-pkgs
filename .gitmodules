@@ -493,3 +493,6 @@
 [submodule "php/doctrine/php-doctrine-DoctrineCommon"]
 	path = php/doctrine/php-doctrine-DoctrineCommon
 	url = ssh://pkgs.fedoraproject.org/php-doctrine-DoctrineCommon.git
+[submodule "php/domxml/php-domxml-php4-php5"]
+	path = php/domxml/php-domxml-php4-php5
+	url = ssh://pkgs.fedoraproject.org/php-domxml-php4-php5.git
