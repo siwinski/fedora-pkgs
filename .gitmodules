@@ -430,3 +430,6 @@
 [submodule "php/channel/php-channel-horde"]
 	path = php/channel/php-channel-horde
 	url = ssh://pkgs.fedoraproject.org/php-channel-horde.git
+[submodule "php/channel/php-channel-htmlpurifier"]
+	path = php/channel/php-channel-htmlpurifier
+	url = ssh://pkgs.fedoraproject.org/php-channel-htmlpurifier.git
