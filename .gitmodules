@@ -37,3 +37,6 @@
 [submodule "drupal6/drupal6-context"]
 	path = drupal6/drupal6-context
 	url = ssh://pkgs.fedoraproject.org/drupal6-context.git
+[submodule "drupal6/drupal6-context_menu_block"]
+	path = drupal6/drupal6-context_menu_block
+	url = ssh://pkgs.fedoraproject.org/drupal6-context_menu_block.git
