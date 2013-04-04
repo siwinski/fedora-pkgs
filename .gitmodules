@@ -160,3 +160,6 @@
 [submodule "drupal6/drupal6-token"]
 	path = drupal6/drupal6-token
 	url = ssh://pkgs.fedoraproject.org/drupal6-token.git
+[submodule "drupal6/drupal6-video"]
+	path = drupal6/drupal6-video
+	url = ssh://pkgs.fedoraproject.org/drupal6-video.git
