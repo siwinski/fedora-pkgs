@@ -859,3 +859,6 @@
 [submodule "php/pear/php-pear-Auth-OpenID"]
 	path = php/pear/php-pear-Auth-OpenID
 	url = ssh://pkgs.fedoraproject.org/php-pear-Auth-OpenID.git
+[submodule "php/pear/php-pear-Auth-RADIUS"]
+	path = php/pear/php-pear-Auth-RADIUS
+	url = ssh://pkgs.fedoraproject.org/php-pear-Auth-RADIUS.git
