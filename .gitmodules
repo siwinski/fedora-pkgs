@@ -1255,3 +1255,6 @@
 [submodule "php/pecl/php-pecl-http"]
 	path = php/pecl/php-pecl-http
 	url = ssh://pkgs.fedoraproject.org/php-pecl-http.git
+[submodule "php/pecl/php-pecl-igbinary"]
+	path = php/pecl/php-pecl-igbinary
+	url = ssh://pkgs.fedoraproject.org/php-pecl-igbinary.git
