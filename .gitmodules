@@ -316,3 +316,6 @@
 [submodule "drupal7/drupal7-workbench_moderation"]
 	path = drupal7/drupal7-workbench_moderation
 	url = ssh://pkgs.fedoraproject.org/drupal7-workbench_moderation.git
+[submodule "php/php"]
+	path = php/php
+	url = ssh://pkgs.fedoraproject.org/php.git
