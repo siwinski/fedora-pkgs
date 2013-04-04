@@ -1123,3 +1123,6 @@
 [submodule "php/pear/php-pear-PHPUnit"]
 	path = php/pear/php-pear-PHPUnit
 	url = ssh://pkgs.fedoraproject.org/php-pear-PHPUnit.git
+[submodule "php/pear/php-pear-PHPUnit2"]
+	path = php/pear/php-pear-PHPUnit2
+	url = ssh://pkgs.fedoraproject.org/php-pear-PHPUnit2.git
