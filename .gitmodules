@@ -1552,3 +1552,6 @@
 [submodule "php/php-xcache"]
 	path = php/php-xcache
 	url = ssh://pkgs.fedoraproject.org/php-xcache.git
+[submodule "php/php-xmpphp"]
+	path = php/php-xmpphp
+	url = ssh://pkgs.fedoraproject.org/php-xmpphp.git
