@@ -1291,3 +1291,6 @@
 [submodule "php/pecl/php-pecl-ncurses"]
 	path = php/pecl/php-pecl-ncurses
 	url = ssh://pkgs.fedoraproject.org/php-pecl-ncurses.git
+[submodule "php/pecl/php-pecl-oauth"]
+	path = php/pecl/php-pecl-oauth
+	url = ssh://pkgs.fedoraproject.org/php-pecl-oauth.git
