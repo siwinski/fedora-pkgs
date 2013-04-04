@@ -1453,3 +1453,6 @@
 [submodule "php/php-spyc"]
 	path = php/php-spyc
 	url = ssh://pkgs.fedoraproject.org/php-spyc.git
+[submodule "php/php-suhosin"]
+	path = php/php-suhosin
+	url = ssh://pkgs.fedoraproject.org/php-suhosin.git
