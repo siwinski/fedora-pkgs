@@ -778,3 +778,6 @@
 [submodule "php/horde/php-horde-Horde-Tree"]
 	path = php/horde/php-horde-Horde-Tree
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Tree.git
+[submodule "php/horde/php-horde-Horde-Url"]
+	path = php/horde/php-horde-Horde-Url
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Url.git
