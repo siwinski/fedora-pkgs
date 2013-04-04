@@ -595,3 +595,6 @@
 [submodule "php/php-hkit"]
 	path = php/php-hkit
 	url = ssh://pkgs.fedoraproject.org/php-hkit.git
+[submodule "php/horde/php-horde-Horde-Alarm"]
+	path = php/horde/php-horde-Horde-Alarm
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Alarm.git
