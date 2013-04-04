@@ -1147,3 +1147,6 @@
 [submodule "php/pear/php-pear-Services-Weather"]
 	path = php/pear/php-pear-Services-Weather
 	url = ssh://pkgs.fedoraproject.org/php-pear-Services-Weather.git
+[submodule "php/pear/php-pear-Spreadsheet-Excel-Writer"]
+	path = php/pear/php-pear-Spreadsheet-Excel-Writer
+	url = ssh://pkgs.fedoraproject.org/php-pear-Spreadsheet-Excel-Writer.git
