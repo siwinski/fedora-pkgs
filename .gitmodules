@@ -970,3 +970,6 @@
 [submodule "php/pear/php-pear-HTML-QuickForm-ElementGrid"]
 	path = php/pear/php-pear-HTML-QuickForm-ElementGrid
 	url = ssh://pkgs.fedoraproject.org/php-pear-HTML-QuickForm-ElementGrid.git
+[submodule "php/pear/php-pear-HTML-QuickForm-advmultiselect"]
+	path = php/pear/php-pear-HTML-QuickForm-advmultiselect
+	url = ssh://pkgs.fedoraproject.org/php-pear-HTML-QuickForm-advmultiselect.git
