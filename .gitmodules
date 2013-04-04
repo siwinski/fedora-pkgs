@@ -418,3 +418,6 @@
 [submodule "php/channel/php-channel-dropbox-php"]
 	path = php/channel/php-channel-dropbox-php
 	url = ssh://pkgs.fedoraproject.org/php-channel-dropbox-php.git
+[submodule "php/channel/php-channel-drush"]
+	path = php/channel/php-channel-drush
+	url = ssh://pkgs.fedoraproject.org/php-channel-drush.git
