@@ -1363,3 +1363,6 @@
 [submodule "php/phpunit/php-phpunit-File-Iterator"]
 	path = php/phpunit/php-phpunit-File-Iterator
 	url = ssh://pkgs.fedoraproject.org/php-phpunit-File-Iterator.git
+[submodule "php/phpunit/php-phpunit-FinderFacade"]
+	path = php/phpunit/php-phpunit-FinderFacade
+	url = ssh://pkgs.fedoraproject.org/php-phpunit-FinderFacade.git
