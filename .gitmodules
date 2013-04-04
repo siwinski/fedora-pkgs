@@ -376,3 +376,6 @@
 [submodule "php/php-Slim"]
 	path = php/php-Slim
 	url = ssh://pkgs.fedoraproject.org/php-Slim.git
+[submodule "php/php-Smarty"]
+	path = php/php-Smarty
+	url = ssh://pkgs.fedoraproject.org/php-Smarty.git
