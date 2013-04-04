@@ -1438,3 +1438,6 @@
 [submodule "php/sabredav/php-sabredav-Sabre_HTTP"]
 	path = php/sabredav/php-sabredav-Sabre_HTTP
 	url = ssh://pkgs.fedoraproject.org/php-sabredav-Sabre_HTTP.git
+[submodule "php/sabredav/php-sabredav-Sabre_VObject"]
+	path = php/sabredav/php-sabredav-Sabre_VObject
+	url = ssh://pkgs.fedoraproject.org/php-sabredav-Sabre_VObject.git
