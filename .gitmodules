@@ -289,3 +289,6 @@
 [submodule "drupal7/drupal7-strongarm"]
 	path = drupal7/drupal7-strongarm
 	url = ssh://pkgs.fedoraproject.org/drupal7-strongarm.git
+[submodule "drupal7/drupal7-theme-adaptivetheme"]
+	path = drupal7/drupal7-theme-adaptivetheme
+	url = ssh://pkgs.fedoraproject.org/drupal7-theme-adaptivetheme.git
