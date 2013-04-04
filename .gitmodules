@@ -1000,3 +1000,6 @@
 [submodule "php/pear/php-pear-HTTP-Request2"]
 	path = php/pear/php-pear-HTTP-Request2
 	url = ssh://pkgs.fedoraproject.org/php-pear-HTTP-Request2.git
+[submodule "php/pear/php-pear-HTTP-Upload"]
+	path = php/pear/php-pear-HTTP-Upload
+	url = ssh://pkgs.fedoraproject.org/php-pear-HTTP-Upload.git
