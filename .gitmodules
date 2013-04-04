@@ -1114,3 +1114,6 @@
 [submodule "php/pear/php-pear-PHP-CodeSniffer"]
 	path = php/pear/php-pear-PHP-CodeSniffer
 	url = ssh://pkgs.fedoraproject.org/php-pear-PHP-CodeSniffer.git
+[submodule "php/pear/php-pear-PHP-Compat"]
+	path = php/pear/php-pear-PHP-Compat
+	url = ssh://pkgs.fedoraproject.org/php-pear-PHP-Compat.git
