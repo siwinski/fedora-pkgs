@@ -607,3 +607,6 @@
 [submodule "php/horde/php-horde-Horde-Autoloader"]
 	path = php/horde/php-horde-Horde-Autoloader
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Autoloader.git
+[submodule "php/horde/php-horde-Horde-Browser"]
+	path = php/horde/php-horde-Horde-Browser
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Browser.git
