@@ -22,3 +22,6 @@
 [submodule "drupal6/drupal6-better_formats"]
 	path = drupal6/drupal6-better_formats
 	url = ssh://pkgs.fedoraproject.org/drupal6-better_formats.git
+[submodule "drupal6/drupal6-block_class"]
+	path = drupal6/drupal6-block_class
+	url = ssh://pkgs.fedoraproject.org/drupal6-block_class.git
