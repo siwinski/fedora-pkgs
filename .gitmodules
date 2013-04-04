@@ -1357,3 +1357,6 @@
 [submodule "php/phpmd/php-phpmd-PHP-PMD"]
 	path = php/phpmd/php-phpmd-PHP-PMD
 	url = ssh://pkgs.fedoraproject.org/php-phpmd-PHP-PMD.git
+[submodule "php/phpunit/php-phpunit-DbUnit"]
+	path = php/phpunit/php-phpunit-DbUnit
+	url = ssh://pkgs.fedoraproject.org/php-phpunit-DbUnit.git
