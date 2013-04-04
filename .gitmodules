@@ -817,3 +817,6 @@
 [submodule "php/php-lessphp"]
 	path = php/php-lessphp
 	url = ssh://pkgs.fedoraproject.org/php-lessphp.git
+[submodule "php/php-libvirt"]
+	path = php/php-libvirt
+	url = ssh://pkgs.fedoraproject.org/php-libvirt.git
