@@ -397,3 +397,6 @@
 [submodule "php/bartlett/php-bartlett-PHP-Reflect"]
 	path = php/bartlett/php-bartlett-PHP-Reflect
 	url = ssh://pkgs.fedoraproject.org/php-bartlett-PHP-Reflect.git
+[submodule "php/php-captchaphp"]
+	path = php/php-captchaphp
+	url = ssh://pkgs.fedoraproject.org/php-captchaphp.git
