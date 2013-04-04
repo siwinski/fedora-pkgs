@@ -1399,3 +1399,6 @@
 [submodule "php/phpunit/php-phpunit-Text-Template"]
 	path = php/phpunit/php-phpunit-Text-Template
 	url = ssh://pkgs.fedoraproject.org/php-phpunit-Text-Template.git
+[submodule "php/phpunit/php-phpunit-bytekit"]
+	path = php/phpunit/php-phpunit-bytekit
+	url = ssh://pkgs.fedoraproject.org/php-phpunit-bytekit.git
