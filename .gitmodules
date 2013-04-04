@@ -1549,3 +1549,6 @@
 [submodule "php/php-when"]
 	path = php/php-when
 	url = ssh://pkgs.fedoraproject.org/php-when.git
+[submodule "php/php-xcache"]
+	path = php/php-xcache
+	url = ssh://pkgs.fedoraproject.org/php-xcache.git
