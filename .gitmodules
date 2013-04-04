@@ -952,3 +952,6 @@
 [submodule "php/pear/php-pear-File-Fstab"]
 	path = php/pear/php-pear-File-Fstab
 	url = ssh://pkgs.fedoraproject.org/php-pear-File-Fstab.git
+[submodule "php/pear/php-pear-File-Passwd"]
+	path = php/pear/php-pear-File-Passwd
+	url = ssh://pkgs.fedoraproject.org/php-pear-File-Passwd.git
