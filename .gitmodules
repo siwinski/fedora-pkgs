@@ -883,3 +883,6 @@
 [submodule "php/pear/php-pear-Cache-Lite"]
 	path = php/pear/php-pear-Cache-Lite
 	url = ssh://pkgs.fedoraproject.org/php-pear-Cache-Lite.git
+[submodule "php/pear/php-pear-CodeGen"]
+	path = php/pear/php-pear-CodeGen
+	url = ssh://pkgs.fedoraproject.org/php-pear-CodeGen.git
