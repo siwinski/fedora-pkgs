@@ -40,3 +40,6 @@
 [submodule "drupal6/drupal6-context_menu_block"]
 	path = drupal6/drupal6-context_menu_block
 	url = ssh://pkgs.fedoraproject.org/drupal6-context_menu_block.git
+[submodule "drupal6/drupal6-ctools"]
+	path = drupal6/drupal6-ctools
+	url = ssh://pkgs.fedoraproject.org/drupal6-ctools.git
