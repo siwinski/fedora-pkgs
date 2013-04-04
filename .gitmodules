@@ -1309,3 +1309,6 @@
 [submodule "php/pecl/php-pecl-radius"]
 	path = php/pecl/php-pecl-radius
 	url = ssh://pkgs.fedoraproject.org/php-pecl-radius.git
+[submodule "php/pecl/php-pecl-rrd"]
+	path = php/pecl/php-pecl-rrd
+	url = ssh://pkgs.fedoraproject.org/php-pecl-rrd.git
