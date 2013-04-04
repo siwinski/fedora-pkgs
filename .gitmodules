@@ -1516,3 +1516,6 @@
 [submodule "php/symfony2/php-symfony2-PropertyAccess"]
 	path = php/symfony2/php-symfony2-PropertyAccess
 	url = ssh://pkgs.fedoraproject.org/php-symfony2-PropertyAccess.git
+[submodule "php/symfony2/php-symfony2-Routing"]
+	path = php/symfony2/php-symfony2-Routing
+	url = ssh://pkgs.fedoraproject.org/php-symfony2-Routing.git
