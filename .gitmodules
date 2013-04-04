@@ -1129,3 +1129,6 @@
 [submodule "php/pear/php-pear-Pager"]
 	path = php/pear/php-pear-Pager
 	url = ssh://pkgs.fedoraproject.org/php-pear-Pager.git
+[submodule "php/pear/php-pear-Payment-Process"]
+	path = php/pear/php-pear-Payment-Process
+	url = ssh://pkgs.fedoraproject.org/php-pear-Payment-Process.git
