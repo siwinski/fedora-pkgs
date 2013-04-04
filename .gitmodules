@@ -337,3 +337,6 @@
 [submodule "php/php-JMSParser"]
 	path = php/php-JMSParser
 	url = ssh://pkgs.fedoraproject.org/php-JMSParser.git
+[submodule "php/php-JsonSchema"]
+	path = php/php-JsonSchema
+	url = ssh://pkgs.fedoraproject.org/php-JsonSchema.git
