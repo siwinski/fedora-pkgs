@@ -469,3 +469,6 @@
 [submodule "php/channel/php-channel-symfony"]
 	path = php/channel/php-channel-symfony
 	url = ssh://pkgs.fedoraproject.org/php-channel-symfony.git
+[submodule "php/channel/php-channel-symfony2"]
+	path = php/channel/php-channel-symfony2
+	url = ssh://pkgs.fedoraproject.org/php-channel-symfony2.git
