@@ -475,3 +475,6 @@
 [submodule "php/channel/php-channel-theseer"]
 	path = php/channel/php-channel-theseer
 	url = ssh://pkgs.fedoraproject.org/php-channel-theseer.git
+[submodule "php/channel/php-channel-twig"]
+	path = php/channel/php-channel-twig
+	url = ssh://pkgs.fedoraproject.org/php-channel-twig.git
