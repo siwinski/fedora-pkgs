@@ -1216,3 +1216,6 @@
 [submodule "php/pear/php-pear-XML-Util"]
 	path = php/pear/php-pear-XML-Util
 	url = ssh://pkgs.fedoraproject.org/php-pear-XML-Util.git
+[submodule "php/pear/php-pear-creole"]
+	path = php/pear/php-pear-creole
+	url = ssh://pkgs.fedoraproject.org/php-pear-creole.git
