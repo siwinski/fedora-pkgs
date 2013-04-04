@@ -226,3 +226,6 @@
 [submodule "drupal7/drupal7-entity"]
 	path = drupal7/drupal7-entity
 	url = ssh://pkgs.fedoraproject.org/drupal7-entity.git
+[submodule "drupal7/drupal7-eva"]
+	path = drupal7/drupal7-eva
+	url = ssh://pkgs.fedoraproject.org/drupal7-eva.git
