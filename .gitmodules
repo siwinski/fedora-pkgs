@@ -829,3 +829,6 @@
 [submodule "php/manual/php-manual-en"]
 	path = php/manual/php-manual-en
 	url = ssh://pkgs.fedoraproject.org/php-manual-en.git
+[submodule "php/php-markdown"]
+	path = php/php-markdown
+	url = ssh://pkgs.fedoraproject.org/php-markdown.git
