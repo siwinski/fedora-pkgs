@@ -442,3 +442,6 @@
 [submodule "php/channel/php-channel-phing"]
 	path = php/channel/php-channel-phing
 	url = ssh://pkgs.fedoraproject.org/php-channel-phing.git
+[submodule "php/channel/php-channel-phpdb"]
+	path = php/channel/php-channel-phpdb
+	url = ssh://pkgs.fedoraproject.org/php-channel-phpdb.git
