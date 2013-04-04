@@ -1165,3 +1165,6 @@
 [submodule "php/pear/php-pear-Structures-DataGrid-DataSource-RSS"]
 	path = php/pear/php-pear-Structures-DataGrid-DataSource-RSS
 	url = ssh://pkgs.fedoraproject.org/php-pear-Structures-DataGrid-DataSource-RSS.git
+[submodule "php/pear/php-pear-Structures-DataGrid-Renderer-Pager"]
+	path = php/pear/php-pear-Structures-DataGrid-Renderer-Pager
+	url = ssh://pkgs.fedoraproject.org/php-pear-Structures-DataGrid-Renderer-Pager.git
