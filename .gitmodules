@@ -1579,3 +1579,6 @@
 [submodule "php/phpMemcachedAdmin"]
 	path = php/phpMemcachedAdmin
 	url = ssh://pkgs.fedoraproject.org/phpMemcachedAdmin.git
+[submodule "php/phpMyAdmin"]
+	path = php/phpMyAdmin
+	url = ssh://pkgs.fedoraproject.org/phpMyAdmin.git
