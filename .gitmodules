@@ -532,3 +532,6 @@
 [submodule "php/ezc/php-ezc-ConsoleTools"]
 	path = php/ezc/php-ezc-ConsoleTools
 	url = ssh://pkgs.fedoraproject.org/php-ezc-ConsoleTools.git
+[submodule "php/ezc/php-ezc-Database"]
+	path = php/ezc/php-ezc-Database
+	url = ssh://pkgs.fedoraproject.org/php-ezc-Database.git
