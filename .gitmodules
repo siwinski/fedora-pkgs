@@ -1513,3 +1513,6 @@
 [submodule "php/symfony2/php-symfony2-Process"]
 	path = php/symfony2/php-symfony2-Process
 	url = ssh://pkgs.fedoraproject.org/php-symfony2-Process.git
+[submodule "php/symfony2/php-symfony2-PropertyAccess"]
+	path = php/symfony2/php-symfony2-PropertyAccess
+	url = ssh://pkgs.fedoraproject.org/php-symfony2-PropertyAccess.git
