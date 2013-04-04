@@ -1456,3 +1456,6 @@
 [submodule "php/php-suhosin"]
 	path = php/php-suhosin
 	url = ssh://pkgs.fedoraproject.org/php-suhosin.git
+[submodule "php/swift/php-swift-Swift"]
+	path = php/swift/php-swift-Swift
+	url = ssh://pkgs.fedoraproject.org/php-swift-Swift.git
