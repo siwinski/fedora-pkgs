@@ -934,3 +934,6 @@
 [submodule "php/pear/php-pear-Date-Holidays-USA"]
 	path = php/pear/php-pear-Date-Holidays-USA
 	url = ssh://pkgs.fedoraproject.org/php-pear-Date-Holidays-USA.git
+[submodule "php/pear/php-pear-Event-Dispatcher"]
+	path = php/pear/php-pear-Event-Dispatcher
+	url = ssh://pkgs.fedoraproject.org/php-pear-Event-Dispatcher.git
