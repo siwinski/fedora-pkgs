@@ -1561,3 +1561,6 @@
 [submodule "php/php-zmq"]
 	path = php/php-zmq
 	url = ssh://pkgs.fedoraproject.org/php-zmq.git
+[submodule "php53/php53-extras"]
+	path = php53/php53-extras
+	url = ssh://pkgs.fedoraproject.org/php53-extras.git
