@@ -1591,3 +1591,6 @@
 [submodule "php/phpTodo"]
 	path = php/phpTodo
 	url = ssh://pkgs.fedoraproject.org/phpTodo.git
+[submodule "php/phpesp"]
+	path = php/phpesp
+	url = ssh://pkgs.fedoraproject.org/phpesp.git
