@@ -556,3 +556,6 @@
 [submodule "php/ezc/php-ezc-Mail"]
 	path = php/ezc/php-ezc-Mail
 	url = ssh://pkgs.fedoraproject.org/php-ezc-Mail.git
+[submodule "php/ezc/php-ezc-PersistentObject"]
+	path = php/ezc/php-ezc-PersistentObject
+	url = ssh://pkgs.fedoraproject.org/php-ezc-PersistentObject.git
