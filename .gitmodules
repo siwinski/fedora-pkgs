@@ -991,3 +991,6 @@
 [submodule "php/pear/php-pear-HTTP-Client"]
 	path = php/pear/php-pear-HTTP-Client
 	url = ssh://pkgs.fedoraproject.org/php-pear-HTTP-Client.git
+[submodule "php/pear/php-pear-HTTP-OAuth"]
+	path = php/pear/php-pear-HTTP-OAuth
+	url = ssh://pkgs.fedoraproject.org/php-pear-HTTP-OAuth.git
