@@ -1087,3 +1087,6 @@
 [submodule "php/pear/php-pear-Net-Traceroute"]
 	path = php/pear/php-pear-Net-Traceroute
 	url = ssh://pkgs.fedoraproject.org/php-pear-Net-Traceroute.git
+[submodule "php/pear/php-pear-Net-URL"]
+	path = php/pear/php-pear-Net-URL
+	url = ssh://pkgs.fedoraproject.org/php-pear-Net-URL.git
