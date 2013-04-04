@@ -478,3 +478,6 @@
 [submodule "php/channel/php-channel-twig"]
 	path = php/channel/php-channel-twig
 	url = ssh://pkgs.fedoraproject.org/php-channel-twig.git
+[submodule "php/php-cloudfiles"]
+	path = php/php-cloudfiles
+	url = ssh://pkgs.fedoraproject.org/php-cloudfiles.git
