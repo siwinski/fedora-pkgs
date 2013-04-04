@@ -1300,3 +1300,6 @@
 [submodule "php/pecl/php-pecl-pdo"]
 	path = php/pecl/php-pecl-pdo
 	url = ssh://pkgs.fedoraproject.org/php-pecl-pdo.git
+[submodule "php/pecl/php-pecl-pdo-sqlite"]
+	path = php/pecl/php-pecl-pdo-sqlite
+	url = ssh://pkgs.fedoraproject.org/php-pecl-pdo-sqlite.git
