@@ -1183,3 +1183,6 @@
 [submodule "php/pear/php-pear-Text-Password"]
 	path = php/pear/php-pear-Text-Password
 	url = ssh://pkgs.fedoraproject.org/php-pear-Text-Password.git
+[submodule "php/pear/php-pear-Validate"]
+	path = php/pear/php-pear-Validate
+	url = ssh://pkgs.fedoraproject.org/php-pear-Validate.git
