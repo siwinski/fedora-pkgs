@@ -88,3 +88,6 @@
 [submodule "drupal6/drupal6-footnotes"]
 	path = drupal6/drupal6-footnotes
 	url = ssh://pkgs.fedoraproject.org/drupal6-footnotes.git
+[submodule "drupal6/drupal6-freelinking"]
+	path = drupal6/drupal6-freelinking
+	url = ssh://pkgs.fedoraproject.org/drupal6-freelinking.git
