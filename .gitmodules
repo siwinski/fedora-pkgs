@@ -1195,3 +1195,6 @@
 [submodule "php/pear/php-pear-XML-Beautifier"]
 	path = php/pear/php-pear-XML-Beautifier
 	url = ssh://pkgs.fedoraproject.org/php-pear-XML-Beautifier.git
+[submodule "php/pear/php-pear-XML-Parser"]
+	path = php/pear/php-pear-XML-Parser
+	url = ssh://pkgs.fedoraproject.org/php-pear-XML-Parser.git
