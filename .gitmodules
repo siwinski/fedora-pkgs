@@ -1153,3 +1153,6 @@
 [submodule "php/pear/php-pear-Structures-DataGrid"]
 	path = php/pear/php-pear-Structures-DataGrid
 	url = ssh://pkgs.fedoraproject.org/php-pear-Structures-DataGrid.git
+[submodule "php/pear/php-pear-Structures-DataGrid-DataSource-Array"]
+	path = php/pear/php-pear-Structures-DataGrid-DataSource-Array
+	url = ssh://pkgs.fedoraproject.org/php-pear-Structures-DataGrid-DataSource-Array.git
