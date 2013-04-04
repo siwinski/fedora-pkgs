@@ -31,3 +31,6 @@
 [submodule "drupal6/drupal6-cck"]
 	path = drupal6/drupal6-cck
 	url = ssh://pkgs.fedoraproject.org/drupal6-cck.git
+[submodule "drupal6/drupal6-comment_bonus_api"]
+	path = drupal6/drupal6-comment_bonus_api
+	url = ssh://pkgs.fedoraproject.org/drupal6-comment_bonus_api.git
