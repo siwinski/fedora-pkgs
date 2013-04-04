@@ -847,3 +847,6 @@
 [submodule "php/php-pdb"]
 	path = php/php-pdb
 	url = ssh://pkgs.fedoraproject.org/php-pdb.git
+[submodule "php/pdepend/php-pdepend-PHP-Depend"]
+	path = php/pdepend/php-pdepend-PHP-Depend
+	url = ssh://pkgs.fedoraproject.org/php-pdepend-PHP-Depend.git
