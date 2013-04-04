@@ -112,3 +112,6 @@
 [submodule "drupal6/drupal6-imagefield"]
 	path = drupal6/drupal6-imagefield
 	url = ssh://pkgs.fedoraproject.org/drupal6-imagefield.git
+[submodule "drupal6/drupal6-insert"]
+	path = drupal6/drupal6-insert
+	url = ssh://pkgs.fedoraproject.org/drupal6-insert.git
