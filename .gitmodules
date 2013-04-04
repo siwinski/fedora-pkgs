@@ -334,3 +334,6 @@
 [submodule "php/php-IDNA_Convert"]
 	path = php/php-IDNA_Convert
 	url = ssh://pkgs.fedoraproject.org/php-IDNA_Convert.git
+[submodule "php/php-JMSParser"]
+	path = php/php-JMSParser
+	url = ssh://pkgs.fedoraproject.org/php-JMSParser.git
