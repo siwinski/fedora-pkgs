@@ -841,3 +841,6 @@
 [submodule "php/php-oauth"]
 	path = php/php-oauth
 	url = ssh://pkgs.fedoraproject.org/php-oauth.git
+[submodule "php/password/php-password-compat"]
+	path = php/password/php-password-compat
+	url = ssh://pkgs.fedoraproject.org/php-password-compat.git
