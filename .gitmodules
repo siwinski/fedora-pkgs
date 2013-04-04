@@ -1294,3 +1294,6 @@
 [submodule "php/pecl/php-pecl-oauth"]
 	path = php/pecl/php-pecl-oauth
 	url = ssh://pkgs.fedoraproject.org/php-pecl-oauth.git
+[submodule "php/pecl/php-pecl-parsekit"]
+	path = php/pecl/php-pecl-parsekit
+	url = ssh://pkgs.fedoraproject.org/php-pecl-parsekit.git
