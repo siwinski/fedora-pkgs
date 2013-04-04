@@ -58,3 +58,6 @@
 [submodule "drupal6/drupal6-eazylaunch"]
 	path = drupal6/drupal6-eazylaunch
 	url = ssh://pkgs.fedoraproject.org/drupal6-eazylaunch.git
+[submodule "drupal6/drupal6-emfield"]
+	path = drupal6/drupal6-emfield
+	url = ssh://pkgs.fedoraproject.org/drupal6-emfield.git
