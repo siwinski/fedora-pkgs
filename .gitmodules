@@ -268,3 +268,6 @@
 [submodule "drupal7/drupal7-login_destination"]
 	path = drupal7/drupal7-login_destination
 	url = ssh://pkgs.fedoraproject.org/drupal7-login_destination.git
+[submodule "drupal7/drupal7-markdown"]
+	path = drupal7/drupal7-markdown
+	url = ssh://pkgs.fedoraproject.org/drupal7-markdown.git
