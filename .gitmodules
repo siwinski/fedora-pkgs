@@ -1186,3 +1186,6 @@
 [submodule "php/pear/php-pear-Validate"]
 	path = php/pear/php-pear-Validate
 	url = ssh://pkgs.fedoraproject.org/php-pear-Validate.git
+[submodule "php/pear/php-pear-Validate-Finance-CreditCard"]
+	path = php/pear/php-pear-Validate-Finance-CreditCard
+	url = ssh://pkgs.fedoraproject.org/php-pear-Validate-Finance-CreditCard.git
