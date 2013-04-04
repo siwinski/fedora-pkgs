@@ -133,3 +133,6 @@
 [submodule "drupal6/drupal6-media_youku"]
 	path = drupal6/drupal6-media_youku
 	url = ssh://pkgs.fedoraproject.org/drupal6-media_youku.git
+[submodule "drupal6/drupal6-menu_block"]
+	path = drupal6/drupal6-menu_block
+	url = ssh://pkgs.fedoraproject.org/drupal6-menu_block.git
