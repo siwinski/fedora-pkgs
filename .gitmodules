@@ -190,3 +190,6 @@
 [submodule "drupal7/drupal7-advanced_help"]
 	path = drupal7/drupal7-advanced_help
 	url = ssh://pkgs.fedoraproject.org/drupal7-advanced_help.git
+[submodule "drupal7/drupal7-auto_nodetitle"]
+	path = drupal7/drupal7-auto_nodetitle
+	url = ssh://pkgs.fedoraproject.org/drupal7-auto_nodetitle.git
