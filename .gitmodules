@@ -1033,3 +1033,6 @@
 [submodule "php/pear/php-pear-MDB2-Driver-pgsql"]
 	path = php/pear/php-pear-MDB2-Driver-pgsql
 	url = ssh://pkgs.fedoraproject.org/php-pear-MDB2-Driver-pgsql.git
+[submodule "php/pear/php-pear-MDB2-Schema"]
+	path = php/pear/php-pear-MDB2-Schema
+	url = ssh://pkgs.fedoraproject.org/php-pear-MDB2-Schema.git
