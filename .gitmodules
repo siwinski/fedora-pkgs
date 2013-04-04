@@ -790,3 +790,6 @@
 [submodule "php/horde/php-horde-Horde-Xml-Element"]
 	path = php/horde/php-horde-Horde-Xml-Element
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Xml-Element.git
+[submodule "php/horde/php-horde-Horde-Xml-Wbxml"]
+	path = php/horde/php-horde-Horde-Xml-Wbxml
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Xml-Wbxml.git
