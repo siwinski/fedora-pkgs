@@ -208,3 +208,6 @@
 [submodule "drupal7/drupal7-ckeditor"]
 	path = drupal7/drupal7-ckeditor
 	url = ssh://pkgs.fedoraproject.org/drupal7-ckeditor.git
+[submodule "drupal7/drupal7-context"]
+	path = drupal7/drupal7-context
+	url = ssh://pkgs.fedoraproject.org/drupal7-context.git
