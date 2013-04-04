@@ -499,3 +499,6 @@
 [submodule "php/dropbox/php-dropbox-php-Dropbox"]
 	path = php/dropbox/php-dropbox-php-Dropbox
 	url = ssh://pkgs.fedoraproject.org/php-dropbox-php-Dropbox.git
+[submodule "php/drush/php-drush-drush"]
+	path = php/drush/php-drush-drush
+	url = ssh://pkgs.fedoraproject.org/php-drush-drush.git
