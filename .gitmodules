@@ -901,3 +901,6 @@
 [submodule "php/pear/php-pear-Console-Getargs"]
 	path = php/pear/php-pear-Console-Getargs
 	url = ssh://pkgs.fedoraproject.org/php-pear-Console-Getargs.git
+[submodule "php/pear/php-pear-Console-ProgressBar"]
+	path = php/pear/php-pear-Console-ProgressBar
+	url = ssh://pkgs.fedoraproject.org/php-pear-Console-ProgressBar.git
