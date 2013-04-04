@@ -1600,3 +1600,6 @@
 [submodule "php/phplogcon"]
 	path = php/phplogcon
 	url = ssh://pkgs.fedoraproject.org/phplogcon.git
+[submodule "php/phpwapmail"]
+	path = php/phpwapmail
+	url = ssh://pkgs.fedoraproject.org/phpwapmail.git
