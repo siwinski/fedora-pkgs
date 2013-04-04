@@ -1381,3 +1381,6 @@
 [submodule "php/phpunit/php-phpunit-PHP-TokenStream"]
 	path = php/phpunit/php-phpunit-PHP-TokenStream
 	url = ssh://pkgs.fedoraproject.org/php-phpunit-PHP-TokenStream.git
+[submodule "php/phpunit/php-phpunit-PHPUnit"]
+	path = php/phpunit/php-phpunit-PHPUnit
+	url = ssh://pkgs.fedoraproject.org/php-phpunit-PHPUnit.git
