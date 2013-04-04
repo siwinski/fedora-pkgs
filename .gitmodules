@@ -1510,3 +1510,6 @@
 [submodule "php/symfony2/php-symfony2-OptionsResolver"]
 	path = php/symfony2/php-symfony2-OptionsResolver
 	url = ssh://pkgs.fedoraproject.org/php-symfony2-OptionsResolver.git
+[submodule "php/symfony2/php-symfony2-Process"]
+	path = php/symfony2/php-symfony2-Process
+	url = ssh://pkgs.fedoraproject.org/php-symfony2-Process.git
