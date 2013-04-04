@@ -685,3 +685,6 @@
 [submodule "php/horde/php-horde-Horde-Ldap"]
 	path = php/horde/php-horde-Horde-Ldap
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Ldap.git
+[submodule "php/horde/php-horde-Horde-Lock"]
+	path = php/horde/php-horde-Horde-Lock
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Lock.git
