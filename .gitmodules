@@ -577,3 +577,6 @@
 [submodule "php/php-feedcreator"]
 	path = php/php-feedcreator
 	url = ssh://pkgs.fedoraproject.org/php-feedcreator.git
+[submodule "php/php-fpdf"]
+	path = php/php-fpdf
+	url = ssh://pkgs.fedoraproject.org/php-fpdf.git
