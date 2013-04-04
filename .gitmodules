@@ -484,3 +484,6 @@
 [submodule "php/deepend/php-deepend-Mockery"]
 	path = php/deepend/php-deepend-Mockery
 	url = ssh://pkgs.fedoraproject.org/php-deepend-Mockery.git
+[submodule "php/digitalsandwich/php-digitalsandwich-Phake"]
+	path = php/digitalsandwich/php-digitalsandwich-Phake
+	url = ssh://pkgs.fedoraproject.org/php-digitalsandwich-Phake.git
