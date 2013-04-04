@@ -331,3 +331,6 @@
 [submodule "php/php-Faker"]
 	path = php/php-Faker
 	url = ssh://pkgs.fedoraproject.org/php-Faker.git
+[submodule "php/php-IDNA_Convert"]
+	path = php/php-IDNA_Convert
+	url = ssh://pkgs.fedoraproject.org/php-IDNA_Convert.git
