@@ -448,3 +448,6 @@
 [submodule "php/channel/php-channel-phpdoc"]
 	path = php/channel/php-channel-phpdoc
 	url = ssh://pkgs.fedoraproject.org/php-channel-phpdoc.git
+[submodule "php/channel/php-channel-phpmd"]
+	path = php/channel/php-channel-phpmd
+	url = ssh://pkgs.fedoraproject.org/php-channel-phpmd.git
