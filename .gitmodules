@@ -1066,3 +1066,6 @@
 [submodule "php/pear/php-pear-Net-IDNA2"]
 	path = php/pear/php-pear-Net-IDNA2
 	url = ssh://pkgs.fedoraproject.org/php-pear-Net-IDNA2.git
+[submodule "php/pear/php-pear-Net-IPv4"]
+	path = php/pear/php-pear-Net-IPv4
+	url = ssh://pkgs.fedoraproject.org/php-pear-Net-IPv4.git
