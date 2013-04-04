@@ -664,3 +664,6 @@
 [submodule "php/horde/php-horde-Horde-Http"]
 	path = php/horde/php-horde-Horde-Http
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Http.git
+[submodule "php/horde/php-horde-Horde-Icalendar"]
+	path = php/horde/php-horde-Horde-Icalendar
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Icalendar.git
