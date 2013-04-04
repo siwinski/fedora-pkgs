@@ -676,3 +676,6 @@
 [submodule "php/horde/php-horde-Horde-Imsp"]
 	path = php/horde/php-horde-Horde-Imsp
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Imsp.git
+[submodule "php/horde/php-horde-Horde-Injector"]
+	path = php/horde/php-horde-Horde-Injector
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Injector.git
