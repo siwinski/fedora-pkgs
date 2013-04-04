@@ -1507,3 +1507,6 @@
 [submodule "php/symfony2/php-symfony2-Locale"]
 	path = php/symfony2/php-symfony2-Locale
 	url = ssh://pkgs.fedoraproject.org/php-symfony2-Locale.git
+[submodule "php/symfony2/php-symfony2-OptionsResolver"]
+	path = php/symfony2/php-symfony2-OptionsResolver
+	url = ssh://pkgs.fedoraproject.org/php-symfony2-OptionsResolver.git
