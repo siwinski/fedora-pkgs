@@ -709,3 +709,6 @@
 [submodule "php/horde/php-horde-Horde-Notification"]
 	path = php/horde/php-horde-Horde-Notification
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Notification.git
+[submodule "php/horde/php-horde-Horde-Perms"]
+	path = php/horde/php-horde-Horde-Perms
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Perms.git
