@@ -637,3 +637,6 @@
 [submodule "php/horde/php-horde-Horde-Data"]
 	path = php/horde/php-horde-Horde-Data
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Data.git
+[submodule "php/horde/php-horde-Horde-Date"]
+	path = php/horde/php-horde-Horde-Date
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Date.git
