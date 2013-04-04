@@ -610,3 +610,6 @@
 [submodule "php/horde/php-horde-Horde-Browser"]
 	path = php/horde/php-horde-Horde-Browser
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Browser.git
+[submodule "php/horde/php-horde-Horde-Cache"]
+	path = php/horde/php-horde-Horde-Cache
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Cache.git
