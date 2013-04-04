@@ -70,3 +70,6 @@
 [submodule "drupal6/drupal6-features_extra"]
 	path = drupal6/drupal6-features_extra
 	url = ssh://pkgs.fedoraproject.org/drupal6-features_extra.git
+[submodule "drupal6/drupal6-feeds"]
+	path = drupal6/drupal6-feeds
+	url = ssh://pkgs.fedoraproject.org/drupal6-feeds.git
