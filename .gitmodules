@@ -1237,3 +1237,6 @@
 [submodule "php/pecl/php-pecl-amqp"]
 	path = php/pecl/php-pecl-amqp
 	url = ssh://pkgs.fedoraproject.org/php-pecl-amqp.git
+[submodule "php/pecl/php-pecl-apc"]
+	path = php/pecl/php-pecl-apc
+	url = ssh://pkgs.fedoraproject.org/php-pecl-apc.git
