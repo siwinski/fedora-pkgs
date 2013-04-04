@@ -400,3 +400,6 @@
 [submodule "php/php-captchaphp"]
 	path = php/php-captchaphp
 	url = ssh://pkgs.fedoraproject.org/php-captchaphp.git
+[submodule "php/channel/php-channel-aws"]
+	path = php/channel/php-channel-aws
+	url = ssh://pkgs.fedoraproject.org/php-channel-aws.git
