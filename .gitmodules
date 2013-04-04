@@ -1252,3 +1252,6 @@
 [submodule "php/pecl/php-pecl-gmagick"]
 	path = php/pecl/php-pecl-gmagick
 	url = ssh://pkgs.fedoraproject.org/php-pecl-gmagick.git
+[submodule "php/pecl/php-pecl-http"]
+	path = php/pecl/php-pecl-http
+	url = ssh://pkgs.fedoraproject.org/php-pecl-http.git
