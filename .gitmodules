@@ -1498,3 +1498,6 @@
 [submodule "php/symfony2/php-symfony2-Form"]
 	path = php/symfony2/php-symfony2-Form
 	url = ssh://pkgs.fedoraproject.org/php-symfony2-Form.git
+[submodule "php/symfony2/php-symfony2-HttpFoundation"]
+	path = php/symfony2/php-symfony2-HttpFoundation
+	url = ssh://pkgs.fedoraproject.org/php-symfony2-HttpFoundation.git
