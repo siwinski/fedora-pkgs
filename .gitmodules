@@ -1555,3 +1555,6 @@
 [submodule "php/php-xmpphp"]
 	path = php/php-xmpphp
 	url = ssh://pkgs.fedoraproject.org/php-xmpphp.git
+[submodule "php/php-zipstream"]
+	path = php/php-zipstream
+	url = ssh://pkgs.fedoraproject.org/php-zipstream.git
