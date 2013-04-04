@@ -1174,3 +1174,6 @@
 [submodule "php/pear/php-pear-Text-CAPTCHA"]
 	path = php/pear/php-pear-Text-CAPTCHA
 	url = ssh://pkgs.fedoraproject.org/php-pear-Text-CAPTCHA.git
+[submodule "php/pear/php-pear-Text-Diff"]
+	path = php/pear/php-pear-Text-Diff
+	url = ssh://pkgs.fedoraproject.org/php-pear-Text-Diff.git
