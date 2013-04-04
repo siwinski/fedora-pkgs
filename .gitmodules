@@ -1558,3 +1558,6 @@
 [submodule "php/php-zipstream"]
 	path = php/php-zipstream
 	url = ssh://pkgs.fedoraproject.org/php-zipstream.git
+[submodule "php/php-zmq"]
+	path = php/php-zmq
+	url = ssh://pkgs.fedoraproject.org/php-zmq.git
