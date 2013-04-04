@@ -472,3 +472,6 @@
 [submodule "php/channel/php-channel-symfony2"]
 	path = php/channel/php-channel-symfony2
 	url = ssh://pkgs.fedoraproject.org/php-channel-symfony2.git
+[submodule "php/channel/php-channel-theseer"]
+	path = php/channel/php-channel-theseer
+	url = ssh://pkgs.fedoraproject.org/php-channel-theseer.git
