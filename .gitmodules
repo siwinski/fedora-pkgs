@@ -1372,3 +1372,6 @@
 [submodule "php/phpunit/php-phpunit-PHP-CodeCoverage"]
 	path = php/phpunit/php-phpunit-PHP-CodeCoverage
 	url = ssh://pkgs.fedoraproject.org/php-phpunit-PHP-CodeCoverage.git
+[submodule "php/phpunit/php-phpunit-PHP-Invoker"]
+	path = php/phpunit/php-phpunit-PHP-Invoker
+	url = ssh://pkgs.fedoraproject.org/php-phpunit-PHP-Invoker.git
