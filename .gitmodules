@@ -961,3 +961,6 @@
 [submodule "php/pear/php-pear-File-Util"]
 	path = php/pear/php-pear-File-Util
 	url = ssh://pkgs.fedoraproject.org/php-pear-File-Util.git
+[submodule "php/pear/php-pear-HTML-Common"]
+	path = php/pear/php-pear-HTML-Common
+	url = ssh://pkgs.fedoraproject.org/php-pear-HTML-Common.git
