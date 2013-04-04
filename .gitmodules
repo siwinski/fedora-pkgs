@@ -1003,3 +1003,6 @@
 [submodule "php/pear/php-pear-HTTP-Upload"]
 	path = php/pear/php-pear-HTTP-Upload
 	url = ssh://pkgs.fedoraproject.org/php-pear-HTTP-Upload.git
+[submodule "php/pear/php-pear-Image-Canvas"]
+	path = php/pear/php-pear-Image-Canvas
+	url = ssh://pkgs.fedoraproject.org/php-pear-Image-Canvas.git
