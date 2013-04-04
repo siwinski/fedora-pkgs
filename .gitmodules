@@ -1324,3 +1324,6 @@
 [submodule "php/pecl/php-pecl-sphinx"]
 	path = php/pecl/php-pecl-sphinx
 	url = ssh://pkgs.fedoraproject.org/php-pecl-sphinx.git
+[submodule "php/pecl/php-pecl-sqlite"]
+	path = php/pecl/php-pecl-sqlite
+	url = ssh://pkgs.fedoraproject.org/php-pecl-sqlite.git
