@@ -1210,3 +1210,6 @@
 [submodule "php/pear/php-pear-XML-SVG"]
 	path = php/pear/php-pear-XML-SVG
 	url = ssh://pkgs.fedoraproject.org/php-pear-XML-SVG.git
+[submodule "php/pear/php-pear-XML-Serializer"]
+	path = php/pear/php-pear-XML-Serializer
+	url = ssh://pkgs.fedoraproject.org/php-pear-XML-Serializer.git
