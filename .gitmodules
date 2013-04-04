@@ -82,3 +82,6 @@
 [submodule "drupal6/drupal6-flag"]
 	path = drupal6/drupal6-flag
 	url = ssh://pkgs.fedoraproject.org/drupal6-flag.git
+[submodule "drupal6/drupal6-flexifilter"]
+	path = drupal6/drupal6-flexifilter
+	url = ssh://pkgs.fedoraproject.org/drupal6-flexifilter.git
