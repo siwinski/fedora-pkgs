@@ -1015,3 +1015,6 @@
 [submodule "php/pear/php-pear-Image-GraphViz"]
 	path = php/pear/php-pear-Image-GraphViz
 	url = ssh://pkgs.fedoraproject.org/php-pear-Image-GraphViz.git
+[submodule "php/pear/php-pear-Image-Text"]
+	path = php/pear/php-pear-Image-Text
+	url = ssh://pkgs.fedoraproject.org/php-pear-Image-Text.git
