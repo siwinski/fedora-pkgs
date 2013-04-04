@@ -1588,3 +1588,6 @@
 [submodule "php/phpPgAdmin"]
 	path = php/phpPgAdmin
 	url = ssh://pkgs.fedoraproject.org/phpPgAdmin.git
+[submodule "php/phpTodo"]
+	path = php/phpTodo
+	url = ssh://pkgs.fedoraproject.org/phpTodo.git
