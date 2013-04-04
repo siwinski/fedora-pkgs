@@ -1090,3 +1090,6 @@
 [submodule "php/pear/php-pear-Net-URL"]
 	path = php/pear/php-pear-Net-URL
 	url = ssh://pkgs.fedoraproject.org/php-pear-Net-URL.git
+[submodule "php/pear/php-pear-Net-URL-Mapper"]
+	path = php/pear/php-pear-Net-URL-Mapper
+	url = ssh://pkgs.fedoraproject.org/php-pear-Net-URL-Mapper.git
