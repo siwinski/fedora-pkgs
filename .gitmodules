@@ -628,3 +628,6 @@
 [submodule "php/horde/php-horde-Horde-Controller"]
 	path = php/horde/php-horde-Horde-Controller
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Controller.git
+[submodule "php/horde/php-horde-Horde-Crypt"]
+	path = php/horde/php-horde-Horde-Crypt
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Crypt.git
