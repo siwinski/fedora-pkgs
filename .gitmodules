@@ -283,3 +283,6 @@
 [submodule "drupal7/drupal7-pathauto"]
 	path = drupal7/drupal7-pathauto
 	url = ssh://pkgs.fedoraproject.org/drupal7-pathauto.git
+[submodule "drupal7/drupal7-rules"]
+	path = drupal7/drupal7-rules
+	url = ssh://pkgs.fedoraproject.org/drupal7-rules.git
