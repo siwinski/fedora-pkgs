@@ -139,3 +139,6 @@
 [submodule "drupal6/drupal6-mobile_tools"]
 	path = drupal6/drupal6-mobile_tools
 	url = ssh://pkgs.fedoraproject.org/drupal6-mobile_tools.git
+[submodule "drupal6/drupal6-og"]
+	path = drupal6/drupal6-og
+	url = ssh://pkgs.fedoraproject.org/drupal6-og.git
