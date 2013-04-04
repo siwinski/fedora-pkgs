@@ -1333,3 +1333,6 @@
 [submodule "php/pecl/php-pecl-uuid"]
 	path = php/pecl/php-pecl-uuid
 	url = ssh://pkgs.fedoraproject.org/php-pecl-uuid.git
+[submodule "php/pecl/php-pecl-xdebug"]
+	path = php/pecl/php-pecl-xdebug
+	url = ssh://pkgs.fedoraproject.org/php-pecl-xdebug.git
