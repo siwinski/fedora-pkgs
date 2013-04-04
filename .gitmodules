@@ -586,3 +586,6 @@
 [submodule "php/php-getid3"]
 	path = php/php-getid3
 	url = ssh://pkgs.fedoraproject.org/php-getid3.git
+[submodule "php/php-gettext"]
+	path = php/php-gettext
+	url = ssh://pkgs.fedoraproject.org/php-gettext.git
