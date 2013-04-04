@@ -763,3 +763,6 @@
 [submodule "php/horde/php-horde-Horde-Text-Filter"]
 	path = php/horde/php-horde-Horde-Text-Filter
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Text-Filter.git
+[submodule "php/horde/php-horde-Horde-Text-Flowed"]
+	path = php/horde/php-horde-Horde-Text-Flowed
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Text-Flowed.git
