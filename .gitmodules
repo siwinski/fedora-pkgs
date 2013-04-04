@@ -745,3 +745,6 @@
 [submodule "php/horde/php-horde-Horde-Stream-Wrapper"]
 	path = php/horde/php-horde-Horde-Stream-Wrapper
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Stream-Wrapper.git
+[submodule "php/horde/php-horde-Horde-Support"]
+	path = php/horde/php-horde-Horde-Support
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Support.git
