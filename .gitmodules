@@ -742,3 +742,6 @@
 [submodule "php/horde/php-horde-Horde-Stream-Filter"]
 	path = php/horde/php-horde-Horde-Stream-Filter
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Stream-Filter.git
+[submodule "php/horde/php-horde-Horde-Stream-Wrapper"]
+	path = php/horde/php-horde-Horde-Stream-Wrapper
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Stream-Wrapper.git
