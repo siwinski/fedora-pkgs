@@ -1351,3 +1351,6 @@
 [submodule "php/php-phpSmug"]
 	path = php/php-phpSmug
 	url = ssh://pkgs.fedoraproject.org/php-phpSmug.git
+[submodule "php/php-phpass"]
+	path = php/php-phpass
+	url = ssh://pkgs.fedoraproject.org/php-phpass.git
