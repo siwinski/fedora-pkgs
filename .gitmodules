@@ -592,3 +592,6 @@
 [submodule "php/guzzle/php-guzzle-Guzzle"]
 	path = php/guzzle/php-guzzle-Guzzle
 	url = ssh://pkgs.fedoraproject.org/php-guzzle-Guzzle.git
+[submodule "php/php-hkit"]
+	path = php/php-hkit
+	url = ssh://pkgs.fedoraproject.org/php-hkit.git
