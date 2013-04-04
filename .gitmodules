@@ -301,3 +301,6 @@
 [submodule "drupal7/drupal7-variable"]
 	path = drupal7/drupal7-variable
 	url = ssh://pkgs.fedoraproject.org/drupal7-variable.git
+[submodule "drupal7/drupal7-views"]
+	path = drupal7/drupal7-views
+	url = ssh://pkgs.fedoraproject.org/drupal7-views.git
