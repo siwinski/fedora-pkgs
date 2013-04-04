@@ -682,3 +682,6 @@
 [submodule "php/horde/php-horde-Horde-Kolab-Format"]
 	path = php/horde/php-horde-Horde-Kolab-Format
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Kolab-Format.git
+[submodule "php/horde/php-horde-Horde-Ldap"]
+	path = php/horde/php-horde-Horde-Ldap
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Ldap.git
