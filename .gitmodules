@@ -241,3 +241,6 @@
 [submodule "drupal7/drupal7-field_permissions"]
 	path = drupal7/drupal7-field_permissions
 	url = ssh://pkgs.fedoraproject.org/drupal7-field_permissions.git
+[submodule "drupal7/drupal7-fivestar"]
+	path = drupal7/drupal7-fivestar
+	url = ssh://pkgs.fedoraproject.org/drupal7-fivestar.git
