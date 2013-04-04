@@ -1243,3 +1243,6 @@
 [submodule "php/pecl/php-pecl-cairo"]
 	path = php/pecl/php-pecl-cairo
 	url = ssh://pkgs.fedoraproject.org/php-pecl-cairo.git
+[submodule "php/pecl/php-pecl-gearman"]
+	path = php/pecl/php-pecl-gearman
+	url = ssh://pkgs.fedoraproject.org/php-pecl-gearman.git
