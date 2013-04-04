@@ -1447,3 +1447,6 @@
 [submodule "php/php-shout"]
 	path = php/php-shout
 	url = ssh://pkgs.fedoraproject.org/php-shout.git
+[submodule "php/php-simplepie"]
+	path = php/php-simplepie
+	url = ssh://pkgs.fedoraproject.org/php-simplepie.git
