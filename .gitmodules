@@ -403,3 +403,6 @@
 [submodule "php/channel/php-channel-aws"]
 	path = php/channel/php-channel-aws
 	url = ssh://pkgs.fedoraproject.org/php-channel-aws.git
+[submodule "php/channel/php-channel-bartlett"]
+	path = php/channel/php-channel-bartlett
+	url = ssh://pkgs.fedoraproject.org/php-channel-bartlett.git
