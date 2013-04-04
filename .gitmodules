@@ -502,3 +502,6 @@
 [submodule "php/drush/php-drush-drush"]
 	path = php/drush/php-drush-drush
 	url = ssh://pkgs.fedoraproject.org/php-drush-drush.git
+[submodule "php/php-eaccelerator"]
+	path = php/php-eaccelerator
+	url = ssh://pkgs.fedoraproject.org/php-eaccelerator.git
