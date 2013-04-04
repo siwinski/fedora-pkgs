@@ -1330,3 +1330,6 @@
 [submodule "php/pecl/php-pecl-ssh2"]
 	path = php/pecl/php-pecl-ssh2
 	url = ssh://pkgs.fedoraproject.org/php-pecl-ssh2.git
+[submodule "php/pecl/php-pecl-uuid"]
+	path = php/pecl/php-pecl-uuid
+	url = ssh://pkgs.fedoraproject.org/php-pecl-uuid.git
