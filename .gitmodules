@@ -352,3 +352,6 @@
 [submodule "php/php-Monolog"]
 	path = php/php-Monolog
 	url = ssh://pkgs.fedoraproject.org/php-Monolog.git
+[submodule "php/php-PHPMailer"]
+	path = php/php-PHPMailer
+	url = ssh://pkgs.fedoraproject.org/php-PHPMailer.git
