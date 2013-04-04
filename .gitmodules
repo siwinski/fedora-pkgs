@@ -103,3 +103,6 @@
 [submodule "drupal6/drupal6-imageapi"]
 	path = drupal6/drupal6-imageapi
 	url = ssh://pkgs.fedoraproject.org/drupal6-imageapi.git
+[submodule "drupal6/drupal6-imagecache"]
+	path = drupal6/drupal6-imagecache
+	url = ssh://pkgs.fedoraproject.org/drupal6-imagecache.git
