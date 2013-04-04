@@ -703,3 +703,6 @@
 [submodule "php/horde/php-horde-Horde-Mime"]
 	path = php/horde/php-horde-Horde-Mime
 	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Mime.git
+[submodule "php/horde/php-horde-Horde-Nls"]
+	path = php/horde/php-horde-Horde-Nls
+	url = ssh://pkgs.fedoraproject.org/php-horde-Horde-Nls.git
