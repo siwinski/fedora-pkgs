@@ -1606,3 +1606,6 @@
 [submodule "php/pear/php-pear-Net-IMAP"]
 	path = php/pear/php-pear-Net-IMAP
 	url = ssh://pkgs.fedoraproject.org/php-pear-Net-IMAP.git
+[submodule "php/phpunit/php-phpunit-Version"]
+	path = php/phpunit/php-phpunit-Version
+	url = ssh://pkgs.fedoraproject.org/php-phpunit-Version.git
