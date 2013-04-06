@@ -1603,3 +1603,6 @@
 [submodule "php/phpwapmail"]
 	path = php/phpwapmail
 	url = ssh://pkgs.fedoraproject.org/phpwapmail.git
+[submodule "php/pear/php-pear-Net-IMAP"]
+	path = php/pear/php-pear-Net-IMAP
+	url = ssh://pkgs.fedoraproject.org/php-pear-Net-IMAP.git
