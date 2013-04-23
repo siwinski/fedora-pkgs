@@ -1609,3 +1609,6 @@
 [submodule "php/phpunit/php-phpunit-Version"]
 	path = php/phpunit/php-phpunit-Version
 	url = ssh://pkgs.fedoraproject.org/php-phpunit-Version.git
+[submodule "drupal6/drupal6-devel"]
+	path = drupal6/drupal6-devel
+	url = ssh://pkgs.fedoraproject.org/drupal6-devel.git
