@@ -1618,3 +1618,6 @@
 [submodule "drupal6/drupal6-path_redirect"]
 	path = drupal6/drupal6-path_redirect
 	url = ssh://pkgs.fedoraproject.org/drupal6-path_redirect.git
+[submodule "php/pecl/php-pecl-zendopcache"]
+	path = php/pecl/php-pecl-zendopcache
+	url = ssh://pkgs.fedoraproject.org/php-pecl-zendopcache.git
