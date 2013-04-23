@@ -1615,3 +1615,6 @@
 [submodule "drupal6/drupal6-node_import"]
 	path = drupal6/drupal6-node_import
 	url = ssh://pkgs.fedoraproject.org/drupal6-node_import.git
+[submodule "drupal6/drupal6-path_redirect"]
+	path = drupal6/drupal6-path_redirect
+	url = ssh://pkgs.fedoraproject.org/drupal6-path_redirect.git
