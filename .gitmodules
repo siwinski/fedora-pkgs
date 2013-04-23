@@ -1612,3 +1612,6 @@
 [submodule "drupal6/drupal6-devel"]
 	path = drupal6/drupal6-devel
 	url = ssh://pkgs.fedoraproject.org/drupal6-devel.git
+[submodule "drupal6/drupal6-node_import"]
+	path = drupal6/drupal6-node_import
+	url = ssh://pkgs.fedoraproject.org/drupal6-node_import.git
