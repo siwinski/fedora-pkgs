@@ -1642,3 +1642,6 @@
 [submodule "drupal6/drupal6-vertical_tabs"]
 	path = drupal6/drupal6-vertical_tabs
 	url = ssh://pkgs.fedoraproject.org/drupal6-vertical_tabs.git
+[submodule "drupal6/drupal6-views_customfield"]
+	path = drupal6/drupal6-views_customfield
+	url = ssh://pkgs.fedoraproject.org/drupal6-views_customfield.git
