@@ -1621,3 +1621,6 @@
 [submodule "php/pecl/php-pecl-zendopcache"]
 	path = php/pecl/php-pecl-zendopcache
 	url = ssh://pkgs.fedoraproject.org/php-pecl-zendopcache.git
+[submodule "drupal6/drupal6-messaging"]
+	path = drupal6/drupal6-messaging
+	url = ssh://pkgs.fedoraproject.org/drupal6-messaging.git
