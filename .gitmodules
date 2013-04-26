@@ -1624,3 +1624,6 @@
 [submodule "drupal6/drupal6-messaging"]
 	path = drupal6/drupal6-messaging
 	url = ssh://pkgs.fedoraproject.org/drupal6-messaging.git
+[submodule "drupal6/drupal6-notifications"]
+	path = drupal6/drupal6-notifications
+	url = ssh://pkgs.fedoraproject.org/drupal6-notifications.git
