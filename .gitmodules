@@ -1651,3 +1651,6 @@
 [submodule "drupal6/drupal6-vote_up_down"]
 	path = drupal6/drupal6-vote_up_down
 	url = ssh://pkgs.fedoraproject.org/drupal6-vote_up_down.git
+[submodule "drupal6/drupal6-wikitools"]
+	path = drupal6/drupal6-wikitools
+	url = ssh://pkgs.fedoraproject.org/drupal6-wikitools.git
