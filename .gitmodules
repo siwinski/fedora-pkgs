@@ -1645,3 +1645,6 @@
 [submodule "drupal6/drupal6-views_customfield"]
 	path = drupal6/drupal6-views_customfield
 	url = ssh://pkgs.fedoraproject.org/drupal6-views_customfield.git
+[submodule "drupal6/drupal6-views_datasource"]
+	path = drupal6/drupal6-views_datasource
+	url = ssh://pkgs.fedoraproject.org/drupal6-views_datasource.git
