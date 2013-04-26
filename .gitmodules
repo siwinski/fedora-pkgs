@@ -1648,3 +1648,6 @@
 [submodule "drupal6/drupal6-views_datasource"]
 	path = drupal6/drupal6-views_datasource
 	url = ssh://pkgs.fedoraproject.org/drupal6-views_datasource.git
+[submodule "drupal6/drupal6-vote_up_down"]
+	path = drupal6/drupal6-vote_up_down
+	url = ssh://pkgs.fedoraproject.org/drupal6-vote_up_down.git
