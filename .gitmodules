@@ -1633,3 +1633,6 @@
 [submodule "drupal6/drupal6-user_badges"]
 	path = drupal6/drupal6-user_badges
 	url = ssh://pkgs.fedoraproject.org/drupal6-user_badges.git
+[submodule "drupal6/drupal6-userpoints"]
+	path = drupal6/drupal6-userpoints
+	url = ssh://pkgs.fedoraproject.org/drupal6-userpoints.git
