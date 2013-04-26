@@ -1627,3 +1627,6 @@
 [submodule "drupal6/drupal6-notifications"]
 	path = drupal6/drupal6-notifications
 	url = ssh://pkgs.fedoraproject.org/drupal6-notifications.git
+[submodule "drupal6/drupal6-stringoverrides"]
+	path = drupal6/drupal6-stringoverrides
+	url = ssh://pkgs.fedoraproject.org/drupal6-stringoverrides.git
