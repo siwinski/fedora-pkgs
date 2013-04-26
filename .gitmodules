@@ -1636,3 +1636,6 @@
 [submodule "drupal6/drupal6-userpoints"]
 	path = drupal6/drupal6-userpoints
 	url = ssh://pkgs.fedoraproject.org/drupal6-userpoints.git
+[submodule "drupal6/drupal6-userpoints_votingapi"]
+	path = drupal6/drupal6-userpoints_votingapi
+	url = ssh://pkgs.fedoraproject.org/drupal6-userpoints_votingapi.git
