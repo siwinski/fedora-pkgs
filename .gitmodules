@@ -1630,3 +1630,6 @@
 [submodule "drupal6/drupal6-stringoverrides"]
 	path = drupal6/drupal6-stringoverrides
 	url = ssh://pkgs.fedoraproject.org/drupal6-stringoverrides.git
+[submodule "drupal6/drupal6-user_badges"]
+	path = drupal6/drupal6-user_badges
+	url = ssh://pkgs.fedoraproject.org/drupal6-user_badges.git
