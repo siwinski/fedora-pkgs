@@ -1654,3 +1654,6 @@
 [submodule "drupal6/drupal6-wikitools"]
 	path = drupal6/drupal6-wikitools
 	url = ssh://pkgs.fedoraproject.org/drupal6-wikitools.git
+[submodule "php/aws/php-aws-sdk"]
+	path = php/aws/php-aws-sdk
+	url = ssh://pkgs.fedoraproject.org/php-aws-sdk.git
