@@ -1660,3 +1660,6 @@
 [submodule "drupal6/drupal6-prepopulate"]
 	path = drupal6/drupal6-prepopulate
 	url = ssh://pkgs.fedoraproject.org/drupal6-prepopulate.git
+[submodule "drupal7/drupal7-theme-zen"]
+	path = drupal7/drupal7-theme-zen
+	url = ssh://pkgs.fedoraproject.org/drupal7-theme-zen.git
