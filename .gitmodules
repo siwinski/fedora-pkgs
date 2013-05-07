@@ -1657,3 +1657,6 @@
 [submodule "php/aws/php-aws-sdk"]
 	path = php/aws/php-aws-sdk
 	url = ssh://pkgs.fedoraproject.org/php-aws-sdk.git
+[submodule "drupal6/drupal6-prepopulate"]
+	path = drupal6/drupal6-prepopulate
+	url = ssh://pkgs.fedoraproject.org/drupal6-prepopulate.git
