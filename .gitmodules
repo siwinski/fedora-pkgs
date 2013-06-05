@@ -1663,3 +1663,6 @@
 [submodule "drupal7/drupal7-theme-zen"]
 	path = drupal7/drupal7-theme-zen
 	url = ssh://pkgs.fedoraproject.org/drupal7-theme-zen.git
+[submodule "php/php-tcpdf"]
+	path = php/php-tcpdf
+	url = ssh://pkgs.fedoraproject.org/php-tcpdf.git
