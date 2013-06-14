@@ -1678,3 +1678,6 @@
 [submodule "drupal7/drupal7-translation_helpers"]
 	path = drupal7/drupal7-translation_helpers
 	url = ssh://pkgs.fedoraproject.org/drupal7-translation_helpers.git
+[submodule "drupal7/drupal7-translation_overview"]
+	path = drupal7/drupal7-translation_overview
+	url = ssh://pkgs.fedoraproject.org/drupal7-translation_overview.git
