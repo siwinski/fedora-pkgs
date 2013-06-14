@@ -1675,3 +1675,6 @@
 [submodule "drupal7/drupal7-i18nviews"]
 	path = drupal7/drupal7-i18nviews
 	url = ssh://pkgs.fedoraproject.org/drupal7-i18nviews.git
+[submodule "drupal7/drupal7-translation_helpers"]
+	path = drupal7/drupal7-translation_helpers
+	url = ssh://pkgs.fedoraproject.org/drupal7-translation_helpers.git
