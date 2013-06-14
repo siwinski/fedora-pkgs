@@ -1666,3 +1666,6 @@
 [submodule "php/php-tcpdf"]
 	path = php/php-tcpdf
 	url = ssh://pkgs.fedoraproject.org/php-tcpdf.git
+[submodule "drupal7/drupal7-boxes"]
+	path = drupal7/drupal7-boxes
+	url = ssh://pkgs.fedoraproject.org/drupal7-boxes.git
