@@ -1672,3 +1672,6 @@
 [submodule "drupal7/drupal7-i18n_boxes"]
 	path = drupal7/drupal7-i18n_boxes
 	url = ssh://pkgs.fedoraproject.org/drupal7-i18n_boxes.git
+[submodule "drupal7/drupal7-i18nviews"]
+	path = drupal7/drupal7-i18nviews
+	url = ssh://pkgs.fedoraproject.org/drupal7-i18nviews.git
