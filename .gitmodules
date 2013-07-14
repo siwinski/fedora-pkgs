@@ -1759,3 +1759,6 @@
 [submodule "drupal7/drupal7-metatag"]
 	path = drupal7/drupal7-metatag
 	url = ssh://pkgs.fedoraproject.org/drupal7-metatag.git
+[submodule "drupal7/drupal7-path_breadcrumbs"]
+	path = drupal7/drupal7-path_breadcrumbs
+	url = ssh://pkgs.fedoraproject.org/drupal7-path_breadcrumbs.git
