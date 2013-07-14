@@ -1774,3 +1774,6 @@
 [submodule "drupal7/drupal7-taxonomy_access_fix"]
 	path = drupal7/drupal7-taxonomy_access_fix
 	url = ssh://pkgs.fedoraproject.org/drupal7-taxonomy_access_fix.git
+[submodule "drupal7/drupal7-title"]
+	path = drupal7/drupal7-title
+	url = ssh://pkgs.fedoraproject.org/drupal7-title.git
