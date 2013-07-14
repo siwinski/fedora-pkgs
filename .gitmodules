@@ -1756,3 +1756,6 @@
 [submodule "drupal7/drupal7-locale_auto_import"]
 	path = drupal7/drupal7-locale_auto_import
 	url = ssh://pkgs.fedoraproject.org/drupal7-locale_auto_import.git
+[submodule "drupal7/drupal7-metatag"]
+	path = drupal7/drupal7-metatag
+	url = ssh://pkgs.fedoraproject.org/drupal7-metatag.git
