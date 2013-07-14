@@ -1708,3 +1708,6 @@
 [submodule "drupal7/drupal7-drush_language"]
 	path = drupal7/drupal7-drush_language
 	url = ssh://pkgs.fedoraproject.org/drupal7-drush_language.git
+[submodule "drupal7/drupal7-ds"]
+	path = drupal7/drupal7-ds
+	url = ssh://pkgs.fedoraproject.org/drupal7-ds.git
