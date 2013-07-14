@@ -1705,3 +1705,6 @@
 [submodule "drupal7/drupal7-domain_views"]
 	path = drupal7/drupal7-domain_views
 	url = ssh://pkgs.fedoraproject.org/drupal7-domain_views.git
+[submodule "drupal7/drupal7-drush_language"]
+	path = drupal7/drupal7-drush_language
+	url = ssh://pkgs.fedoraproject.org/drupal7-drush_language.git
