@@ -1714,3 +1714,6 @@
 [submodule "drupal7/drupal7-entity_translation"]
 	path = drupal7/drupal7-entity_translation
 	url = ssh://pkgs.fedoraproject.org/drupal7-entity_translation.git
+[submodule "drupal7/drupal7-features_extra"]
+	path = drupal7/drupal7-features_extra
+	url = ssh://pkgs.fedoraproject.org/drupal7-features_extra.git
