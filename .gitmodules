@@ -1720,3 +1720,6 @@
 [submodule "drupal7/drupal7-fences"]
 	path = drupal7/drupal7-fences
 	url = ssh://pkgs.fedoraproject.org/drupal7-fences.git
+[submodule "drupal7/drupal7-file_entity"]
+	path = drupal7/drupal7-file_entity
+	url = ssh://pkgs.fedoraproject.org/drupal7-file_entity.git
