@@ -1768,3 +1768,6 @@
 [submodule "drupal7/drupal7-profiler"]
 	path = drupal7/drupal7-profiler
 	url = ssh://pkgs.fedoraproject.org/drupal7-profiler.git
+[submodule "drupal7/drupal7-stringoverrides"]
+	path = drupal7/drupal7-stringoverrides
+	url = ssh://pkgs.fedoraproject.org/drupal7-stringoverrides.git
