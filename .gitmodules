@@ -1741,3 +1741,6 @@
 [submodule "drupal7/drupal7-lang_dropdown"]
 	path = drupal7/drupal7-lang_dropdown
 	url = ssh://pkgs.fedoraproject.org/drupal7-lang_dropdown.git
+[submodule "drupal7/drupal7-language_cookie"]
+	path = drupal7/drupal7-language_cookie
+	url = ssh://pkgs.fedoraproject.org/drupal7-language_cookie.git
