@@ -1687,3 +1687,6 @@
 [submodule "drupal7/drupal7-views_rss"]
 	path = drupal7/drupal7-views_rss
 	url = ssh://pkgs.fedoraproject.org/drupal7-views_rss.git
+[submodule "drupal7/drupal7-admin_language"]
+	path = drupal7/drupal7-admin_language
+	url = ssh://pkgs.fedoraproject.org/drupal7-admin_language.git
