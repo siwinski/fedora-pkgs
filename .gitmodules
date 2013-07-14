@@ -1729,3 +1729,6 @@
 [submodule "drupal7/drupal7-l10n_client"]
 	path = drupal7/drupal7-l10n_client
 	url = ssh://pkgs.fedoraproject.org/drupal7-l10n_client.git
+[submodule "drupal7/drupal7-l10n_pconfig"]
+	path = drupal7/drupal7-l10n_pconfig
+	url = ssh://pkgs.fedoraproject.org/drupal7-l10n_pconfig.git
