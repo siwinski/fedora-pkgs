@@ -1699,3 +1699,6 @@
 [submodule "drupal7/drupal7-domain"]
 	path = drupal7/drupal7-domain
 	url = ssh://pkgs.fedoraproject.org/drupal7-domain.git
+[submodule "drupal7/drupal7-domain_locale"]
+	path = drupal7/drupal7-domain_locale
+	url = ssh://pkgs.fedoraproject.org/drupal7-domain_locale.git
