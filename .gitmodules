@@ -1744,3 +1744,6 @@
 [submodule "drupal7/drupal7-language_cookie"]
 	path = drupal7/drupal7-language_cookie
 	url = ssh://pkgs.fedoraproject.org/drupal7-language_cookie.git
+[submodule "drupal7/drupal7-language_switcher"]
+	path = drupal7/drupal7-language_switcher
+	url = ssh://pkgs.fedoraproject.org/drupal7-language_switcher.git
