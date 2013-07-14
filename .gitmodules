@@ -1696,3 +1696,6 @@
 [submodule "drupal7/drupal7-cs_adaptive_image"]
 	path = drupal7/drupal7-cs_adaptive_image
 	url = ssh://pkgs.fedoraproject.org/drupal7-cs_adaptive_image.git
+[submodule "drupal7/drupal7-domain"]
+	path = drupal7/drupal7-domain
+	url = ssh://pkgs.fedoraproject.org/drupal7-domain.git
