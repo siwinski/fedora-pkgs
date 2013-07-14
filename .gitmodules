@@ -1690,3 +1690,6 @@
 [submodule "drupal7/drupal7-admin_language"]
 	path = drupal7/drupal7-admin_language
 	url = ssh://pkgs.fedoraproject.org/drupal7-admin_language.git
+[submodule "drupal7/drupal7-crumbs"]
+	path = drupal7/drupal7-crumbs
+	url = ssh://pkgs.fedoraproject.org/drupal7-crumbs.git
