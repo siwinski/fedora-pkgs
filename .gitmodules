@@ -1780,3 +1780,6 @@
 [submodule "drupal7/drupal7-tmgmt"]
 	path = drupal7/drupal7-tmgmt
 	url = ssh://pkgs.fedoraproject.org/drupal7-tmgmt.git
+[submodule "drupal7/drupal7-transliteration"]
+	path = drupal7/drupal7-transliteration
+	url = ssh://pkgs.fedoraproject.org/drupal7-transliteration.git
