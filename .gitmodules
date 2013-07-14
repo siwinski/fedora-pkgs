@@ -1765,3 +1765,6 @@
 [submodule "drupal7/drupal7-potx"]
 	path = drupal7/drupal7-potx
 	url = ssh://pkgs.fedoraproject.org/drupal7-potx.git
+[submodule "drupal7/drupal7-profiler"]
+	path = drupal7/drupal7-profiler
+	url = ssh://pkgs.fedoraproject.org/drupal7-profiler.git
