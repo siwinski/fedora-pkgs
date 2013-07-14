@@ -1693,3 +1693,6 @@
 [submodule "drupal7/drupal7-crumbs"]
 	path = drupal7/drupal7-crumbs
 	url = ssh://pkgs.fedoraproject.org/drupal7-crumbs.git
+[submodule "drupal7/drupal7-cs_adaptive_image"]
+	path = drupal7/drupal7-cs_adaptive_image
+	url = ssh://pkgs.fedoraproject.org/drupal7-cs_adaptive_image.git
