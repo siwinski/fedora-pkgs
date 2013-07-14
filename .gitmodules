@@ -1750,3 +1750,6 @@
 [submodule "drupal7/drupal7-languageicons"]
 	path = drupal7/drupal7-languageicons
 	url = ssh://pkgs.fedoraproject.org/drupal7-languageicons.git
+[submodule "drupal7/drupal7-link"]
+	path = drupal7/drupal7-link
+	url = ssh://pkgs.fedoraproject.org/drupal7-link.git
