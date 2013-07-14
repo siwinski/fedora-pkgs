@@ -1771,3 +1771,6 @@
 [submodule "drupal7/drupal7-stringoverrides"]
 	path = drupal7/drupal7-stringoverrides
 	url = ssh://pkgs.fedoraproject.org/drupal7-stringoverrides.git
+[submodule "drupal7/drupal7-taxonomy_access_fix"]
+	path = drupal7/drupal7-taxonomy_access_fix
+	url = ssh://pkgs.fedoraproject.org/drupal7-taxonomy_access_fix.git
