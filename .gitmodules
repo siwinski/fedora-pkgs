@@ -1738,3 +1738,6 @@
 [submodule "drupal7/drupal7-l10n_update"]
 	path = drupal7/drupal7-l10n_update
 	url = ssh://pkgs.fedoraproject.org/drupal7-l10n_update.git
+[submodule "drupal7/drupal7-lang_dropdown"]
+	path = drupal7/drupal7-lang_dropdown
+	url = ssh://pkgs.fedoraproject.org/drupal7-lang_dropdown.git
