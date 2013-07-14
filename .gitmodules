@@ -1726,3 +1726,6 @@
 [submodule "drupal7/drupal7-file_entity_inline"]
 	path = drupal7/drupal7-file_entity_inline
 	url = ssh://pkgs.fedoraproject.org/drupal7-file_entity_inline.git
+[submodule "drupal7/drupal7-l10n_client"]
+	path = drupal7/drupal7-l10n_client
+	url = ssh://pkgs.fedoraproject.org/drupal7-l10n_client.git
